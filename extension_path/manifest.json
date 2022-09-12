@@ -1,0 +1,58 @@
+{
+   "author": "https://docs.kaikas.io/",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "images/icon-128.png",
+         "16": "images/icon-16.png",
+         "19": "images/icon-19.png",
+         "32": "images/icon-32.png",
+         "38": "images/icon-38.png",
+         "48": "images/icon-48.png",
+         "512": "images/icon-512.png",
+         "64": "images/icon-64.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Kaikas"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Alt+Shift+M",
+            "linux": "Alt+Shift+M",
+            "mac": "Alt+Shift+M",
+            "windows": "Alt+Shift+M"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "contentscript.js" ],
+      "matches": [ "file://*/*", "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com https://www.google-analytics.com/analytics.js https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "19": "images/icon-19.png",
+      "32": "images/icon-32.png",
+      "38": "images/icon-38.png",
+      "48": "images/icon-48.png",
+      "512": "images/icon-512.png",
+      "64": "images/icon-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA41+ZlFqBjZPyXDVq4CRW7VpIWDDrwJmAhQ2wrgpvRmmHIPKrtoAtfP1Ys/rezHqZNdPZNFdObcjQKJKKnzOO7osPeizaen9KuBzFfm1g1m6b+k3zhtwETG7GSQEOIIvIez5mJm7dREBQJ8D1vD2Zi1eWnmUd9GcCjIM0J1vZfDse7plmekfNkkAdo9r9hzf0oXM3o4V2ausaVpbnmFAFOucm495Q5yBlo1EwfcUyEq++X9VnI86MfMD4lAiH6uU25xhi+YzxvYq+Tq5GLBSqlVc2rgbYuiVNsEgiUTEvd47rxCRIHdpIokNIdjpfLgIHwnqHrrwQfFg9csCBLtl4xwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "storage", "notifications" ],
+   "short_name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.11.3",
+   "web_accessible_resources": [ "inpage.js" ]
+}

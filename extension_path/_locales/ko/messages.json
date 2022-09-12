@@ -1,0 +1,1949 @@
+{
+   "EOATokenAddressWarning": {
+      "message": "입력한 주소는 계정 주소이므로 토큰을 추가할 수 없습니다."
+   },
+   "about": {
+      "message": "Kaikas 정보"
+   },
+   "accept": {
+      "message": "수락"
+   },
+   "accessingYourCamera": {
+      "message": "카메라에 접근 중..."
+   },
+   "account": {
+      "message": "계정"
+   },
+   "accountDetails": {
+      "message": "계정 정보"
+   },
+   "accountDetailsWarning1": {
+      "message": "※ 위 주소로는 Klaytn 기반 자산만 받을 수 있습니다."
+   },
+   "accountDetailsWarning2": {
+      "message": "다른 체인 자산을 보낼 경우 자산을 찾을 수 없습니다."
+   },
+   "accountName": {
+      "message": "계정 이름"
+   },
+   "accountNameAlreadyInUse": {
+      "message": "내 계정에서 사용 중인 이름입니다."
+   },
+   "accountNameCantBeEmpty": {
+      "message": "계정 이름을 입력해야 합니다."
+   },
+   "accountNickname": {
+      "message": "계정 이름"
+   },
+   "accountNicknameVisibleOnlyToYou": {
+      "message": "계정 이름은 나에게만 보여집니다."
+   },
+   "accountOptions": {
+      "message": "계정 옵션"
+   },
+   "accountToUpdate": {
+      "message": "업데이트할 계정:"
+   },
+   "accountUpdate": {
+      "message": "Account Update"
+   },
+   "accountUpdateChecklist1": {
+      "message": "현재 선택된 네트워크에서 Klaytn Wallet Key가 변경됩니다. 새로운 공개키와 쌍을 이루는 개인키를 안전하게 보관해두십시오."
+   },
+   "accountUpdateChecklist2": {
+      "message": "Kaikas를 계속 이용하려면 계정 세부사항 페이지에서 Klaytn Wallet Key를 교체해야 합니다."
+   },
+   "accountUpdateChecklist3": {
+      "message": "계정을 업데이트하고 나면, 호환성 문제로 Legacy 형식의 트랜잭션은 서명할 수 없게 됩니다."
+   },
+   "activityLog": {
+      "message": "활동 로그"
+   },
+   "add": {
+      "message": "추가"
+   },
+   "addCustomToken": {
+      "message": "사용자 정의 토큰 추가"
+   },
+   "addNetwork": {
+      "message": "네트워크 추가"
+   },
+   "addSuggestedTokens": {
+      "message": "제안된 토큰 추가"
+   },
+   "addTo": {
+      "message": "추가 계정:"
+   },
+   "addToken": {
+      "message": "토큰 추가"
+   },
+   "addTokens": {
+      "message": "토큰 추가"
+   },
+   "addedTokens": {
+      "message": "추가된 토큰"
+   },
+   "address": {
+      "message": "주소"
+   },
+   "addressBookFailed": {
+      "message": "주소록을 업데이트하는 데 실패했습니다."
+   },
+   "advanced": {
+      "message": "고급"
+   },
+   "advancedOptions": {
+      "message": "고급 옵션"
+   },
+   "allDone": {
+      "message": "모두 완료"
+   },
+   "allowCamera1": {
+      "message": "카메라 사용 권한을 허용하거나 차단을 해제해주세요."
+   },
+   "allowCamera2": {
+      "message": "보내기를 계속하시려면 탭을 닫고 Kaikas를 다시 실행해주세요."
+   },
+   "amount": {
+      "message": "수량"
+   },
+   "amountPlusGas": {
+      "message": "수량 + 가스"
+   },
+   "appDescription": {
+      "description": "애플리케이션 설명",
+      "message": "클레이튼 블록체인 지갑을 웹 브라우저에서 만나보세요"
+   },
+   "appName": {
+      "description": "애플리케이션 이름",
+      "message": "Kaikas"
+   },
+   "approvalData": {
+      "message": "승인 데이터"
+   },
+   "approvalPageDescription": {
+      "message": "아래 서비스에서 고객님의 계정 정보를 요청하고 있습니다. 신뢰할만한 서비스만 연결해주세요."
+   },
+   "approvalPageInfo": {
+      "message": "위 웹사이트가 당신의 계정에 연결하길 원합니다."
+   },
+   "approvalWarningMessage": {
+      "message": "아래 한도 내에서 언제든 토큰을 가져갈 수 있는 권한을 서비스에 부여합니다. 신뢰할만한 서비스만 승인해주세요."
+   },
+   "approve": {
+      "message": "승인"
+   },
+   "approved": {
+      "message": "승인"
+   },
+   "asset": {
+      "message": "자산"
+   },
+   "attemptToCancel": {
+      "message": "트랜잭션 취소"
+   },
+   "attemptToCancelDescription": {
+      "message": "취소 요청이 꼭 트랜잭션의 취소를 보장하는 것은 아닙니다. 취소 시도가 성공하는 경우 아래 수수료가 지불됩니다."
+   },
+   "attemptToRemove": {
+      "message": "트랜잭션 제거"
+   },
+   "attemptToRemoveDescription": {
+      "message": "이 트랜잭션을 목록에서 삭제하려고 합니다. 삭제해도 트랜젝션의 처리에는 영향을 주지 않습니다. 한번 삭제하면 되돌릴 수 없으며, 더 이상 이 트랜잭션의 정보를 확인할 수 없게 됩니다."
+   },
+   "attributions": {
+      "message": "권리의 귀속"
+   },
+   "attributions_desc1": {
+      "message": "Kaikas는 다음 라이브러리를 사용합니다:"
+   },
+   "attributions_desc2": {
+      "message": "이 소프트웨어 및 관련 문서 파일(\"소프트웨어\")의 사본을 사용하는 사람에게는 사용, 복사, 수정, 병합, 발행, 배포, 하위 사용권 허가, 판매 권한을 포함하여 제한없이 소프트웨어를 판매 할 수있는 권한이 무료로 부여됩니다. 이는 다음 조건을 만족하는 경우에만 허용됩니다:"
+   },
+   "attributions_desc3": {
+      "message": "상기 저작권 고지 및 이 허가 고지가 모든 소프트웨어 사본 및 상당 부분에 포함되어야 합니다."
+   },
+   "attributions_desc4": {
+      "message": "본 소프트웨어는 명시적이던 묵시적이든, 다음을 포함하되 이에 제한되지 않고, 어떤 형태의 상품성, 특정 목적에의 적합성, 비침해에 대한 보증도 없이 \"있는 그대로\" 제공됩니다. 어떠한 경우에도 저자 또는 저작권 소유자는 소프트웨어로부터, 또는 소프트웨어와 연관하여, 또는 소프트웨어 사용과 기타 거래에 의해 발생하는 계약 행위, 불법 행위, 기타 행위에 관련한 어떠한 청구, 손해 및 기타 책임에 책임을 지지 않습니다."
+   },
+   "autoLockDescription": {
+      "message": "설정한 시간이 지나면 자동으로 Kaikas가 잠깁니다."
+   },
+   "autoLogoutTimeLimit": {
+      "message": "자동 잠금 타이머"
+   },
+   "available": {
+      "message": "사용 가능"
+   },
+   "average": {
+      "message": "평균"
+   },
+   "back": {
+      "message": "뒤로"
+   },
+   "backToMain": {
+      "message": "처음으로"
+   },
+   "backupSeedPhrase": {
+      "message": "시드 구문 백업"
+   },
+   "backupSeedPhraseWarningMsg1": {
+      "message": "시드 구문을 백업했는지 다시 한번 확인해주세요. 시드 구문 없이 비밀번호를 잊어버리거나 Kaikas를 재설치하면, 기존 Kaikas에서 보관중인 자산은 영원히 찾을 수 없습니다."
+   },
+   "backupSeedPhraseWarningMsg2": {
+      "message": "아직 시드 구문을 백업하지 않았다면, 지금 바로 아래 버튼을 눌러 시드 구문을 백업해주세요."
+   },
+   "backupSeedPhraseWarningMsg3": {
+      "message": "“설정 > 시드 구문 보기” 메뉴에서도 시드 구문을 백업할 수 있습니다."
+   },
+   "backupSeedPhraseWarningTitle": {
+      "message": "시드 구문 백업 안내"
+   },
+   "balance": {
+      "message": "잔액"
+   },
+   "balanceOutdated": {
+      "message": "잔액이 최신이 아닐 수도 있습니다."
+   },
+   "balances": {
+      "message": "토큰 잔액"
+   },
+   "baobab": {
+      "message": "Baobab 테스트넷"
+   },
+   "basic": {
+      "message": "기본"
+   },
+   "blockExplorerUrl": {
+      "message": "블록 탐색기"
+   },
+   "blockiesIdenticon": {
+      "message": "Blockies 아이덴티콘 사용"
+   },
+   "browserNotSupported": {
+      "message": "지원되지 않는 브라우저입니다..."
+   },
+   "buy": {
+      "message": "구매"
+   },
+   "buyKlay": {
+      "message": "KLAY 구매"
+   },
+   "buyKlayDescription": {
+      "message": "아래 서비스를 통해 신용 카드로 KLAY를 구매할 수 있습니다. 구매가 완료되면 Kaikas 계정으로 KLAY를 받을 수 있습니다."
+   },
+   "buyKlayMoonPayDescription": {
+      "message": "* MoonPay 가입이 필요합니다."
+   },
+   "bytes": {
+      "message": "바이트"
+   },
+   "callBytecode": {
+      "message": "호출 바이트코드"
+   },
+   "cameraNotAvailable": {
+      "message": "카메라를 사용할 수 없습니다."
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "cancelAttempt": {
+      "message": "취소 시도"
+   },
+   "cancelPendingTx": {
+      "message": "이 상태가 지속되는 경우, 대기 중인 트랜잭션을 먼저 취소하세요."
+   },
+   "cancelPendingTxMessage1": {
+      "message": "Kaikas는 한 번에 하나의 트랜잭션만 처리합니다. Kaikas를 열어 대기 중인 트랜잭션을 새로고침 해주세요. 만약 대기 상태가 계속된다면 이용 중인 서비스가 트랜잭션을 처리하지 않는 것이니 트랜잭션을 취소바랍니다."
+   },
+   "cancelPendingTxMessage2": {
+      "message": "Kaikas는 한 번에 하나의 트랜잭션만 처리합니다. 아래 대기 중인 트랜잭션을 새로고침 해주세요. 만약 대기 상태가 계속된다면 이용 중인 서비스가 트랜잭션을 처리하지 않는 것이니 트랜잭션을 취소바랍니다."
+   },
+   "cancellationFee": {
+      "message": "취소 수수료"
+   },
+   "cancellationGasFee": {
+      "message": "취소 가스 수수료"
+   },
+   "cancelled": {
+      "message": "취소됨"
+   },
+   "cannotRestoreAccount": {
+      "message": "계정 복구 불가 안내"
+   },
+   "cannotRestoreDescription": {
+      "message": "Kaikas에 저장된 모든 계정 정보를 삭제하고 새로운 비밀번호를 설정할 수 있습니다. 이 경우 연결한 모든 계정의 정보가 사라지며 해당 계정들을 다시 가져와야 합니다."
+   },
+   "cannotRestoreIsAccept": {
+      "message": "Kaikas는 내 계정의 키를 별도로 저장하지 않고 앱 데이터 초기화 시 내 계정에 접근할 수 없다는 것에 동의합니다."
+   },
+   "chainId": {
+      "message": "체인 ID"
+   },
+   "change": {
+      "message": "변경"
+   },
+   "changeComplete": {
+      "message": "Kaikas 비밀번호 변경이 완료되었습니다."
+   },
+   "changePassword": {
+      "message": "Kaikas 비밀번호 변경"
+   },
+   "changed": {
+      "message": "변경 완료!"
+   },
+   "chooseImportYourAccount": {
+      "message": "계정 가져오기 방식 선택"
+   },
+   "clearAll": {
+      "message": "모두 초기화"
+   },
+   "clearAllHistory": {
+      "message": "전체 내역 삭제"
+   },
+   "clearAllHistoryDescription1": {
+      "message": "해당 계정의 트랜잭션 내역을 모두 삭제합니다. 내역을 삭제한 후에는 복구할 수 없으며, 필요할 경우 이전 내역은 klaytnfinder에서 확인 가능합니다"
+   },
+   "clearAllHistoryDescription2": {
+      "message": "전체 내역을 삭제하더라도 대기 중인 트랜잭션은 이후 완료 처리가 될 수 있으니 참고 바랍니다."
+   },
+   "clearData": {
+      "message": "Kaikas 데이터 초기화"
+   },
+   "clearPrivacyData": {
+      "message": "접근 권한 관리"
+   },
+   "clearPrivacyDescription": {
+      "message": "Kaikas에 접근 권한을 가진 웹사이트는 아래와 같습니다. 접근 권한을 제거하려면 하단의 모두 초기화 버튼 또는 웹사이트 옆의 X 버튼을 누르세요."
+   },
+   "clickCopy": {
+      "message": "클릭하여 복사"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "company": {
+      "message": "회사"
+   },
+   "confirm": {
+      "message": "확인"
+   },
+   "confirmContract": {
+      "message": "컨트랙트 확인"
+   },
+   "confirmPassword": {
+      "message": "비밀번호 확인"
+   },
+   "confirmPasswordPlaceholder": {
+      "message": "비밀번호를 다시 입력하세요."
+   },
+   "confirmSendMessage": {
+      "message": "※ 받는 사람의 주소가 Klaytn 주소인지 꼭 확인해주세요. 다른 체인 주소로 보낸 자산은 다시 찾을 수 없습니다."
+   },
+   "confirmYourTx": {
+      "message": "트랜잭션 확인"
+   },
+   "confirmed": {
+      "message": "확정"
+   },
+   "congratulations": {
+      "message": "축하합니다"
+   },
+   "connect": {
+      "message": "연결"
+   },
+   "connectHardware": {
+      "message": "하드웨어 지갑 연결"
+   },
+   "connectHardwareDescription": {
+      "message": "Kaikas와 연결할 하드웨어 지갑을 선택해 주세요."
+   },
+   "connectRequest": {
+      "message": "연결 요청"
+   },
+   "connectRequestCheckboxMsg": {
+      "message": "위 서비스를 신뢰하며, 서비스 이용에 관한 책임은 모두 본인에게 있습니다."
+   },
+   "connecting": {
+      "message": "연결 중..."
+   },
+   "connectingTo": {
+      "message": "$1에 접속 중"
+   },
+   "connectingToBaobab": {
+      "message": "Baobab 테스트넷에 접속 중"
+   },
+   "connectingToLocalhost": {
+      "message": "localhost 8551에 접속 중"
+   },
+   "connectingToMainnet": {
+      "message": "메인넷에 접속 중"
+   },
+   "connectingToUnknown": {
+      "message": "알 수 없는 네트워크에 접속 중"
+   },
+   "connectionRequest": {
+      "message": "서비스 연결 요청"
+   },
+   "continue": {
+      "message": "계속"
+   },
+   "contract": {
+      "message": "컨트랙트"
+   },
+   "contractDeployment": {
+      "message": "Contract Deployment"
+   },
+   "contractExecution": {
+      "message": "Contract Execution"
+   },
+   "copiedButton": {
+      "message": "복사됨"
+   },
+   "copiedClipboard": {
+      "message": "클립보드에 복사됨"
+   },
+   "copiedExclamation": {
+      "message": "복사됨!"
+   },
+   "copiedTransactionId": {
+      "message": "트랜잭션 ID 복사됨"
+   },
+   "copy": {
+      "message": "복사"
+   },
+   "copyAddress": {
+      "message": "주소 복사"
+   },
+   "copyAddressToClipboard": {
+      "message": "클립보드에 주소 복사"
+   },
+   "copyButton": {
+      "message": " 복사 "
+   },
+   "copyToClipboard": {
+      "message": "클립보드에 복사"
+   },
+   "copyTransactionId": {
+      "message": "트랜잭션 ID 복사"
+   },
+   "create": {
+      "message": "생성"
+   },
+   "createAWallet": {
+      "message": "지갑 생성"
+   },
+   "createAccount": {
+      "message": "계정 생성"
+   },
+   "createDen": {
+      "message": "생성"
+   },
+   "createPassword": {
+      "message": "계정에 접근하기 위해 사용될 고유한 비밀번호를 설정하세요."
+   },
+   "createPasswordLabel": {
+      "message": "비밀번호 입력"
+   },
+   "createPasswordLabelPlaceholder": {
+      "message": "비밀번호를 입력하세요."
+   },
+   "creator": {
+      "message": "생성자"
+   },
+   "crypto": {
+      "description": "거래 유형 (암호화폐)",
+      "message": "암호화폐"
+   },
+   "currency": {
+      "message": "통화"
+   },
+   "currentConversion": {
+      "message": "현재 통화"
+   },
+   "currentLanguage": {
+      "message": "현재 언어"
+   },
+   "currentNetwork": {
+      "message": "현재 네트워크"
+   },
+   "currentRpc": {
+      "message": "현재 RPC"
+   },
+   "customGas": {
+      "message": "가스 설정"
+   },
+   "customToken": {
+      "message": "사용자 정의 토큰"
+   },
+   "customize": {
+      "message": "맞춤화하기"
+   },
+   "cypress": {
+      "message": "메인넷"
+   },
+   "decimal": {
+      "message": "소수 자릿수"
+   },
+   "decimalLabel": {
+      "message": "소수 자릿수"
+   },
+   "decimalLower": {
+      "message": "소수 자릿수"
+   },
+   "decimalsMustZerotoTen": {
+      "message": "소수 자릿수는 0-36의 범위여야 합니다."
+   },
+   "defaultNetwork": {
+      "message": "Klaytn 트랜잭션의 기본 네트워크는 메인넷입니다."
+   },
+   "defaultNicknamePlaceholder": {
+      "message": "계정 1"
+   },
+   "delegatedTX": {
+      "message": "대납되는 트랜잭션"
+   },
+   "delegatedTransaction": {
+      "message": "대납 트랜잭션"
+   },
+   "delegatedTransactionDescription": {
+      "message": "이 트랜잭션에 대한 세부사항은 klaytnfinder에서 확인할 수 있습니다."
+   },
+   "deposit": {
+      "message": "입금"
+   },
+   "depositFromAccount": {
+      "message": "다른 계정에서 입금하기"
+   },
+   "details": {
+      "message": "세부사항"
+   },
+   "directDeposit": {
+      "message": "직접 입금"
+   },
+   "done": {
+      "message": "완료"
+   },
+   "dontShowAgain": {
+      "message": "다시 열지 않기"
+   },
+   "download": {
+      "message": "다운로드"
+   },
+   "downloadAsAFile": {
+      "message": "파일로 다운로드"
+   },
+   "downloadComplete": {
+      "message": "다운로드 완료"
+   },
+   "downloadSecretBackup": {
+      "message": "키스토어 파일로 저장"
+   },
+   "downloadSeedPhraseCompleteMsg": {
+      "message": "시드 구문을 다운로드했습니다. 다운로드한 파일을 안전한 곳에 보관해주세요."
+   },
+   "downloadSeedPhraseCompleteWarning": {
+      "message": "시드 구문이 없으면 계정을 복구할 수 없으니 주의 바랍니다."
+   },
+   "downloadStateLogs": {
+      "message": "상태 로그"
+   },
+   "dropped": {
+      "message": "폐기"
+   },
+   "duplicatedAccount": {
+      "message": "이미 가져온 계정입니다"
+   },
+   "edit": {
+      "message": "수정"
+   },
+   "editAccountName": {
+      "message": "계정 이름 수정"
+   },
+   "editNetwork": {
+      "message": "네트워크 편집"
+   },
+   "editingTransaction": {
+      "message": "트랜잭션을 변경하세요."
+   },
+   "emailUs": {
+      "message": "이메일 보내기"
+   },
+   "endOfFlowMessage": {
+      "message": "어떠한 경우에도 서비스는 시드 구문을 요구하지 않습니다. 시드 구문을 제공하면 고객님의 자산을 탈취당할 수 있습니다."
+   },
+   "enterAccountNickname": {
+      "message": "계정 이름 입력"
+   },
+   "enterCurrentPassword": {
+      "message": "현재 사용 중인 Kaikas 비밀번호를 입력하세요."
+   },
+   "enterKeystorePassword": {
+      "message": "키스토어 비밀번호 입력"
+   },
+   "enterKeystorePasswordPlaceholder": {
+      "message": "키스토어 비밀번호를 입력하세요."
+   },
+   "enterNewPassword": {
+      "message": "Kaikas에서 사용할 새로운 비밀번호를 설정하세요."
+   },
+   "enterPassword": {
+      "message": "비밀번호 입력"
+   },
+   "enterPasswordConfirm": {
+      "message": "비밀번호를 다시 입력하세요."
+   },
+   "enterPasswordContinue": {
+      "message": "계속하려면 비밀번호를 입력하세요."
+   },
+   "enterSeedPhrase": {
+      "message": "시드 구문 입력"
+   },
+   "enterSeedPhraseError": {
+      "message": "시드 구문이 일치하지 않습니다."
+   },
+   "enterSeedPhrasePlaceholder": {
+      "message": "시드 구문을 입력하세요."
+   },
+   "enterYourKaikasPassword": {
+      "message": "비밀번호 입력"
+   },
+   "errorImportAccount": {
+      "message": "계정을 가져오는 중 문제가 발생했습니다."
+   },
+   "estimatedFee": {
+      "message": "예상 수수료"
+   },
+   "exchangeRate": {
+      "message": "환율"
+   },
+   "expandView": {
+      "message": "큰 화면으로 보기"
+   },
+   "exportKlaytnWalletKey": {
+      "message": "지갑키 내보내기"
+   },
+   "exportPrivateKey": {
+      "message": "개인키 내보내기"
+   },
+   "exposeAccounts": {
+      "message": "계정 노출"
+   },
+   "failed": {
+      "message": "실패"
+   },
+   "failedDelegatedTransactionDescription": {
+      "message": "수수료 대납을 위해 제출한 트랜잭션이 실패했습니다. 사용자가 트랜잭션을 취소했거나 네트워크 오류일 수 있습니다."
+   },
+   "failedDescription": {
+      "message": "트랜잭션이 실패했습니다. 연결에 문제가 있습니다. 트랜잭션이 전송되었는지 트랜잭션 내역을 확인하세요."
+   },
+   "fast": {
+      "message": "빠름"
+   },
+   "faster": {
+      "message": "매우 빠름"
+   },
+   "fastest": {
+      "message": "가장 빠름"
+   },
+   "feeChartTitle": {
+      "message": "실시간 트랜잭션 수수료 예측"
+   },
+   "feeDelegated": {
+      "message": "수수료 대납됨"
+   },
+   "feeDelegation": {
+      "message": "Fee Delegation"
+   },
+   "feeDelegationDescription_1": {
+      "message": "이 트랜잭션은 서비스에게 보내집니다."
+   },
+   "feeDelegationDescription_2": {
+      "message": "그리고나면 서비스가 이 요청을 처리하게 됩니다."
+   },
+   "feePaid": {
+      "message": "지불 수수료"
+   },
+   "feePayer": {
+      "message": "수수료 지불자"
+   },
+   "feePaymentDescription": {
+      "message": "아래 대납되는 트랜잭션을 처리하기 위해 수수료를 지불하려고 합니다."
+   },
+   "feeToPay": {
+      "message": "지불 수수료"
+   },
+   "fetchingReceipt": {
+      "message": "전송내역을 가져오고 있습니다."
+   },
+   "fiat": {
+      "description": "거래 형식",
+      "message": "명목 화폐"
+   },
+   "forgetDevice": {
+      "message": "장치 연결 해제"
+   },
+   "forgotMnemonicPhrase": {
+      "message": "시드 구문을 잊으셨나요?"
+   },
+   "forgotPassword": {
+      "message": "비밀번호을 잊으셨나요?"
+   },
+   "from": {
+      "message": "보내는 사람"
+   },
+   "functionType": {
+      "message": "함수 유형"
+   },
+   "gas": {
+      "description": "가스 가격의 줄임",
+      "message": "가스"
+   },
+   "gasFee": {
+      "message": "가스 수수료"
+   },
+   "gasLimit": {
+      "message": "가스 한도"
+   },
+   "gasLimitTooLow": {
+      "message": "가스 한도는 최소 21000 이상이어야 합니다."
+   },
+   "gasPrice": {
+      "message": "가스 가격 (GPEB)"
+   },
+   "gasUsed": {
+      "message": "사용된 가스"
+   },
+   "general": {
+      "message": "일반"
+   },
+   "generatingTransaction": {
+      "message": "트랜잭션 생성 중"
+   },
+   "getHelp": {
+      "message": "도움말"
+   },
+   "getStarted": {
+      "message": "시작하기"
+   },
+   "greaterThanMin": {
+      "description": "10진수 입력으로 hex값 입력을 도와줍니다",
+      "message": "$1 이상이어야 합니다."
+   },
+   "here": {
+      "description": "troubleTokenBalances에서 제공되는 -자세한 정보를 보려면 여기를 클릭-과 같은 맥락",
+      "message": "여기"
+   },
+   "hereList": {
+      "message": "리스트가 있습니다!!!!"
+   },
+   "hexData": {
+      "message": "Hex 데이터"
+   },
+   "hide": {
+      "message": "숨기기"
+   },
+   "hideData": {
+      "message": "데이터 숨기기"
+   },
+   "hideDetails": {
+      "message": "세부사항 숨기기"
+   },
+   "hideToken": {
+      "message": "토큰 숨기기"
+   },
+   "hideTokenPrompt": {
+      "message": "토큰 삭제"
+   },
+   "history": {
+      "message": "트랜잭션 내역"
+   },
+   "hour": {
+      "message": "시간"
+   },
+   "httpsWarning": {
+      "message": "접속에 HTTPS 보안 연결을 사용하지 않으면 제 3자가 보다 쉽게 내용을 탈취하거나 변조할 수 있으며, Kaikas는 이 경우 어떠한 책임도 지지 않습니다."
+   },
+   "import": {
+      "description": "선택된 파일로부터 계정 가져오기 버튼",
+      "message": "가져오기"
+   },
+   "importAccount": {
+      "message": "계정 가져오기"
+   },
+   "importAccountSeedPhrase": {
+      "message": "시드 구문으로 계정 가져오기"
+   },
+   "importAnAccount": {
+      "message": "계정 가져오기"
+   },
+   "importWallet": {
+      "message": "지갑 가져오기"
+   },
+   "importWithSeedPhrase": {
+      "message": "시드 구문 가져오기"
+   },
+   "importantNotice": {
+      "message": "[필독] Kaikas 이용 전 주의 사항"
+   },
+   "importantNoticeUrl": {
+      "message": "https://kaikas.zendesk.com/hc/ko/articles/4407651714703"
+   },
+   "imported": {
+      "description": "계정이 keyring으로 완전히 로드된 상태",
+      "message": "가져온 계정"
+   },
+   "incorrectPassword": {
+      "message": "비밀번호가 올바르지 않습니다."
+   },
+   "info": {
+      "message": "정보"
+   },
+   "infoHelp": {
+      "message": "정보 및 도움말"
+   },
+   "initialTransactionConfirmed": {
+      "message": "초기 트랜잭션이 네트워크를 통해 확정되었습니다. 확인을 누르면 이전으로 돌아갑니다."
+   },
+   "installationComplete": {
+      "message": "설치가 완료되었습니다."
+   },
+   "installationGuide": {
+      "message": "브라우저에서 Kaikas 아이콘을 클릭해 계속해주세요."
+   },
+   "insufficientBalance": {
+      "message": "잔액이 부족합니다."
+   },
+   "insufficientFees": {
+      "message": "{SYMBOL} 수수료가 부족합니다."
+   },
+   "insufficientFunds": {
+      "message": "잔액이 부족합니다."
+   },
+   "insufficientTokens": {
+      "message": "잔액이 부족합니다."
+   },
+   "invalidAddress": {
+      "message": "주소가 올바르지 않습니다."
+   },
+   "invalidAddressRecipient": {
+      "message": "수신 주소가 올바르지 않습니다."
+   },
+   "invalidAddressRecipientNotKlaytnNetwork": {
+      "message": "Klaytn 네트워크가 아닙니다."
+   },
+   "invalidChainId": {
+      "message": "체인 ID가 유효하지 않습니다."
+   },
+   "invalidExplorer": {
+      "message": "블록 탐색기 URL이 유효하지 않습니다."
+   },
+   "invalidFieType": {
+      "message": "잘못된 파일 형식입니다."
+   },
+   "invalidKlaytnWalletKey": {
+      "message": "Klaytn Wallet Key가 유효하지 않습니다."
+   },
+   "invalidPassword": {
+      "message": "비밀번호가 올바르지 않습니다."
+   },
+   "invalidPrivateKey": {
+      "message": "개인키가 유효하지 않습니다."
+   },
+   "invalidRPC": {
+      "message": "RPC URL이 유효하지 않습니다."
+   },
+   "invalidRequest": {
+      "message": "요청이 유효하지 않습니다."
+   },
+   "invalidTokenAddressWarning": {
+      "message": "입력한 주소가 유효하지 않거나 토큰이 정상적으로 동작하지 않을 수 있습니다."
+   },
+   "jsonFail": {
+      "message": "이상이 있습니다. JSON 파일이 올바른 파일인지 확인해주세요."
+   },
+   "jsonFile": {
+      "description": "계정을 가져오기 위한 형식",
+      "message": "JSON 파일"
+   },
+   "kaikasAgreementTitle1": {
+      "message": "계속하면 Kaikas의 "
+   },
+   "kaikasAgreementTitle2": {
+      "message": "과 "
+   },
+   "kaikasAgreementTitle3": {
+      "message": "에 동의한 것으로 간주됩니다."
+   },
+   "kaikasSeedWords": {
+      "message": "Kaikas 시드 단어"
+   },
+   "kaikasVersion": {
+      "message": "Kaikas™ 버전"
+   },
+   "klay": {
+      "message": "KLAY"
+   },
+   "klayAmount": {
+      "message": "KLAY 수량"
+   },
+   "klaytnWalletKey": {
+      "message": "Klaytn Wallet Key"
+   },
+   "klaytnWalletKeyDescription": {
+      "message": "지갑키는 계정을 지갑으로 가져오는 데 사용되며, 계정의 모든 접근을 가능하게 해줍니다. Kaikas는 아래와 같은 종류의 지갑키를 제공합니다."
+   },
+   "knownAddressRecipient": {
+      "message": "알려진 컨트랙트 주소입니다."
+   },
+   "language": {
+      "message": "언어"
+   },
+   "learnMore": {
+      "message": "더 알아보기"
+   },
+   "legacyTransactionConfirmError": {
+      "message": "개인키가 변경된 계정으로는 호환성 문제로 legacy 형식의 트랜잭션을 서명할 수 없습니다."
+   },
+   "legal": {
+      "message": "법률"
+   },
+   "lessThanMax": {
+      "description": "10진수 입력으로 hex값 입력을 도와줍니다",
+      "message": "$1 이하여야합니다."
+   },
+   "letsGoSetUp": {
+      "message": "네, 설정해볼게요!"
+   },
+   "likeToAddTokens": {
+      "message": "이 토큰을 추가하시겠습니까?"
+   },
+   "limit": {
+      "message": "한도"
+   },
+   "links": {
+      "message": "링크"
+   },
+   "loading": {
+      "message": "로딩 중..."
+   },
+   "loadingTokens": {
+      "message": "토큰 로딩 중..."
+   },
+   "localhost": {
+      "message": "localhost 8551"
+   },
+   "lockKaikas": {
+      "message": "Kaikas 잠금"
+   },
+   "login": {
+      "message": "로그인"
+   },
+   "logout": {
+      "message": "로그아웃"
+   },
+   "loose": {
+      "message": "느슨함"
+   },
+   "manageAccounts": {
+      "message": "계정 관리"
+   },
+   "manageKlaytnWalletKey": {
+      "message": "지갑키 관리"
+   },
+   "max": {
+      "message": "최대"
+   },
+   "menu": {
+      "message": "메뉴"
+   },
+   "message": {
+      "message": "메시지"
+   },
+   "min": {
+      "message": "최소"
+   },
+   "minute": {
+      "message": "분"
+   },
+   "minutes": {
+      "message": "분"
+   },
+   "mustSelectOne": {
+      "message": "적어도 하나의 토큰을 선택하세요."
+   },
+   "myAccounts": {
+      "message": "내 계정"
+   },
+   "name": {
+      "message": "이름"
+   },
+   "needImportFile": {
+      "description": "사용자는 계정을 가져오기 위해서 파일을 추가후 계속 진행해야 합니다",
+      "message": "가져올 파일을 선택하세요."
+   },
+   "needImportPassword": {
+      "description": "계정을 가져오기 위해서 비밀번호와 파일이 필요합니다.",
+      "message": "선택된 파일에 대한 비밀번호를 입력하세요."
+   },
+   "needTestnetKlay": {
+      "message": "테스트넷 KLAY가 필요한가요?"
+   },
+   "networkConfiguration": {
+      "message": "네트워크 설정 정보"
+   },
+   "networkName": {
+      "message": "네트워크 이름"
+   },
+   "networkRemovingProblem": {
+      "message": "네트워크 삭제 중 문제가 발생했습니다."
+   },
+   "networks": {
+      "message": "네트워크"
+   },
+   "networksChangingProblem": {
+      "message": "네트워크 변경 중 문제가 발생했습니다!"
+   },
+   "never": {
+      "message": "안 함"
+   },
+   "nevermind": {
+      "message": "상관 안 함"
+   },
+   "newAccount": {
+      "message": "새 계정"
+   },
+   "newAccountNumberName": {
+      "description": "계정 생성 시 설정되는 새 계정의 기본 이름",
+      "message": "새 계정 $1"
+   },
+   "newContract": {
+      "message": "새 컨트랙트"
+   },
+   "newNetwork": {
+      "message": "새 네트워크"
+   },
+   "newPassword": {
+      "message": "새 비밀번호 입력"
+   },
+   "newPasswordPlaceholder": {
+      "message": "새 비밀번호를 입력하세요."
+   },
+   "newPublicKey": {
+      "message": "새로운 공개키"
+   },
+   "newToKaikas": {
+      "message": "Kaikas를 처음 사용하시나요?"
+   },
+   "newTotal": {
+      "message": "새 합계"
+   },
+   "next": {
+      "message": "다음"
+   },
+   "nicknameDescription": {
+      "message": "계정 이름은 나에게만 보여집니다."
+   },
+   "nicknameLabel": {
+      "message": "계정 이름 입력"
+   },
+   "noConversionRateAvailable": {
+      "message": "변환 비율 없음"
+   },
+   "noData": {
+      "message": "데이터 없음"
+   },
+   "noTokenAdded": {
+      "message": "추가된 토큰이 없습니다."
+   },
+   "noTransactions": {
+      "message": "트랜잭션이 없습니다."
+   },
+   "noWebcamFound": {
+      "message": "컴퓨터의 웹캠을 찾을 수 없습니다. 다시 시도하세요."
+   },
+   "noWebcamFoundTitle": {
+      "message": "웹캠이 없습니다."
+   },
+   "nonce": {
+      "message": "논스"
+   },
+   "notEnoughGas": {
+      "message": "가스 부족"
+   },
+   "notFound": {
+      "message": "찾을 수 없음"
+   },
+   "notStarted": {
+      "message": "시작 안 됨"
+   },
+   "notice": {
+      "message": "공지사항"
+   },
+   "ofTextNofM": {
+      "message": "/"
+   },
+   "off": {
+      "message": "끄기"
+   },
+   "ok": {
+      "message": "확인"
+   },
+   "on": {
+      "message": "켜기"
+   },
+   "onlySendToKlaytnAddress": {
+      "message": "Klaytn 계정 주소로 KLAY만을 보냅니다."
+   },
+   "onlySendTokensToAccountAddress": {
+      "message": "Klaytn 계정 주소로 $1 토큰을 보냅니다."
+   },
+   "openInTab": {
+      "message": "탭으로 열기"
+   },
+   "optionalBlockExplorerUrl": {
+      "message": "블록 탐색기 URL (선택)"
+   },
+   "optionalChainId": {
+      "message": "체인 ID (선택)"
+   },
+   "optionalNickname": {
+      "message": "별칭 (선택)"
+   },
+   "optionalSymbol": {
+      "message": "심볼 (선택)"
+   },
+   "or": {
+      "description": "새 계정을 만들거나 가져오기 중에 선택하기",
+      "message": "또는"
+   },
+   "origin": {
+      "message": "출처"
+   },
+   "originalTotal": {
+      "message": "원래 합계"
+   },
+   "outgoing": {
+      "message": "외향"
+   },
+   "parameters": {
+      "message": "매개변수"
+   },
+   "password": {
+      "message": "비밀번호"
+   },
+   "passwordContainSpaces": {
+      "message": "비밀번호는 공백문자를 포함할 수 없습니다."
+   },
+   "passwordCorrect": {
+      "message": "비밀번호가 맞는지 확인하세요."
+   },
+   "passwordNotLongEnough": {
+      "message": "비밀번호는 8-32 글자여야 합니다."
+   },
+   "passwordNotValid": {
+      "message": "비밀번호가 유효하지 않습니다."
+   },
+   "passwordNotValid2": {
+      "message": "영문 대문자, 영문 소문자, 숫자, 특수문자를 각각 1개 이상 포함해주세요."
+   },
+   "passwordShort": {
+      "description": "비밀번호를 생성하는 과정에서 비밀번호가 짧아 안전하지 않은 경우",
+      "message": "비밀번호가 짧습니다."
+   },
+   "passwordsDontMatch": {
+      "message": "비밀번호가 일치하지 않습니다."
+   },
+   "pasteKlaytnWalletKey": {
+      "message": "변경된 Klaytn Wallet Key 입력"
+   },
+   "pasteKlaytnWalletKeyPlaceholder": {
+      "message": "변경된 Klaytn Wallet Key 입력하세요."
+   },
+   "pastePrivateKey": {
+      "description": "개인키로부터 계정을 가져오는 부분",
+      "message": "개인키 입력:"
+   },
+   "pasteSeed": {
+      "message": "시드 구문을 이곳에 붙여넣으세요!"
+   },
+   "pasteYourKey": {
+      "message": "키를 붙여넣으세요."
+   },
+   "pasteYourMnemonicPhrase": {
+      "message": "시드 구문 입력"
+   },
+   "pasteYourPrivateKey": {
+      "message": "개인키 또는 Klaytn Wallet Key 입력"
+   },
+   "pending": {
+      "message": "대기 중"
+   },
+   "pendingTransaction": {
+      "message": "대기 중인 트랜잭션"
+   },
+   "personalAddressDetected": {
+      "message": "개인 주소가 탐지됨. 토큰 컨트랙트 주소를 입력하세요."
+   },
+   "pleaseReviewTransaction": {
+      "message": "트랜잭션을 검토해주세요."
+   },
+   "popularTokens": {
+      "message": "인기있는 토큰"
+   },
+   "prev": {
+      "message": "이전"
+   },
+   "primaryCurrencySetting": {
+      "message": "주 화폐"
+   },
+   "privacyMode": {
+      "message": "개인 정보 보호 모드"
+   },
+   "privacyModeDescription": {
+      "message": "웹사이트가 당신의 계정에 접근하려면 승인 요청을 해야합니다."
+   },
+   "privacyPolicy": {
+      "message": "개인정보처리방침"
+   },
+   "privateKey": {
+      "description": "이 형식의 파일을 선택하여 계정을 가져올 수 있습니다",
+      "message": "개인키"
+   },
+   "privateKeyWarning": {
+      "message": "어떠한 경우에도 서비스는 지갑키를 요구하지 않습니다. 지갑키를 제공하면 고객님의 자산을 탈취당할 수 있습니다."
+   },
+   "privateNetwork": {
+      "message": "프라이빗 네트워크"
+   },
+   "problemExportingAccount": {
+      "message": "계정을 내보내는 중 문제가 발생했습니다."
+   },
+   "proceed": {
+      "message": "다음"
+   },
+   "proceedWithoutDownload": {
+      "message": "다운로드 없이 진행"
+   },
+   "proceedWithoutDownloadQuestion": {
+      "message": "다운로드 없이 진행할까요?"
+   },
+   "processingTheRequest": {
+      "message": "요청 처리 중"
+   },
+   "protectYourKeys": {
+      "message": "키를 안전하게 관리하세요!"
+   },
+   "provideKeystore": {
+      "message": "키스토어 파일 제공"
+   },
+   "providerRequest": {
+      "message": "$1이/가 당신의 계정에 연결하길 원합니다."
+   },
+   "publicAddress": {
+      "message": "공개 주소"
+   },
+   "qrCode": {
+      "message": "QR 코드 보기"
+   },
+   "queue": {
+      "message": "대기열"
+   },
+   "queueList": {
+      "message": "대기 목록"
+   },
+   "readFirst": {
+      "message": "\u003Ca href='https://kaikas.zendesk.com/hc/ko/articles/4407651714703'>Kaikas 이용 전 주의 사항\u003C/a>을 꼼꼼하게 확인 후"
+   },
+   "readMore": {
+      "message": "여기서 더 보기."
+   },
+   "readMore2": {
+      "message": "더 보기."
+   },
+   "readdToken": {
+      "message": "토큰 삭제 후 토큰 목록에서 더 이상 노출되지 않습니다. 추후에 다시 추가할 수 있습니다."
+   },
+   "readyToConnect": {
+      "message": "접속 준비되었나요?"
+   },
+   "receive": {
+      "message": "받기"
+   },
+   "recipientAddress": {
+      "message": "받는 주소"
+   },
+   "refresh": {
+      "message": "새로 고침"
+   },
+   "refreshStatus": {
+      "message": "상태 새로고침"
+   },
+   "refundAddress": {
+      "message": "환불받을 주소"
+   },
+   "reject": {
+      "message": "거부"
+   },
+   "rejectAll": {
+      "message": "모두 거부"
+   },
+   "rejectTxsDescription": {
+      "message": "$1개의 트랜잭션을 거부하려 합니다. 모두 거부하기 전에 트랜잭션을 확인하세요."
+   },
+   "rejectTxsN": {
+      "message": "$1개의 트랜잭션 거부"
+   },
+   "rejectTxsNAll": {
+      "message": "모든 트랙잭션 거부"
+   },
+   "rejected": {
+      "message": "거부"
+   },
+   "remove": {
+      "message": "제거"
+   },
+   "remove2": {
+      "message": "삭제"
+   },
+   "removeAccount": {
+      "message": "계정 제거"
+   },
+   "removeAccountDescription": {
+      "message": "계정이 지갑에서 삭제됩니다. 지우기 전에 이 계정의 지갑키를 가지고 있는지 확인하세요. 계정 관리 메뉴를 통해서 계정을 다시 가져올 수 있습니다."
+   },
+   "replaceKlaytnWalletKey": {
+      "message": "Klaytn Wallet Key 교체"
+   },
+   "replaceKlaytnWalletKeyDescription": {
+      "message": "대상 네트워크에서 이 계정의 Klaytn Wallet Key가 변경된 경우에만 교체하세요. 이 변경은 Kaikas의 저장소에만 반영되며, 시드 구문에는 영향을 주지 않습니다."
+   },
+   "replaceKlaytnWalletKeyError": {
+      "message": "키가 유효하지 않아 트랜잭션이 실패했습니다. 만약 계정의 개인키가 변경되었다면 Klaytn Wallet Key를 새로운 키로 교체하시기 바랍니다."
+   },
+   "replaceKlaytnWalletKeyWarning": {
+      "message": "Klaytn Wallet Key를 교체하면 대상 네트워크에서 이전의 Klaytn Wallet Key는 더 이상 사용할 수 없게 됩니다."
+   },
+   "replaced": {
+      "message": "교체 완료!"
+   },
+   "replacedDescription": {
+      "message": "이 계정의 Klaytn Wallet Key가 $1 네트워크에서 성공적으로 교체되었습니다"
+   },
+   "requestedBy": {
+      "message": "요청 사이트:"
+   },
+   "requestsAwaitingAcknowledgement": {
+      "message": "요청이 인정되기까지 대기중"
+   },
+   "required": {
+      "message": "필요함"
+   },
+   "reset": {
+      "message": "초기화"
+   },
+   "resetAccount": {
+      "message": "계정 초기화"
+   },
+   "restore": {
+      "message": "복구"
+   },
+   "restoreYourAccount": {
+      "message": "계정 복구"
+   },
+   "revealSeedPhrase": {
+      "message": "시드 구문 보기"
+   },
+   "revealSeedPhraseDescription": {
+      "message": "비밀번호를 분실하거나 Kaikas 재설치 시, 시드 구문으로 기존 계정을 복구할 수 있습니다. 시드 구문을 안전한 곳에 보관해주세요."
+   },
+   "revealSeedWords": {
+      "message": "시드 단어 보기"
+   },
+   "revealSeedWordsDescription": {
+      "message": "브라우저를 바꾸거나 컴퓨터를 옮기는 경우 이 시드 구문이 필요하며 이를 통해 계정에 접근할 수 있습니다. 시드 구문을 안전한 곳에 보관하세요."
+   },
+   "revealSeedWordsTitle": {
+      "message": "시드 단어"
+   },
+   "revealSeedWordsWarning": {
+      "message": "이 단어들은 당신의 모든 계정을 훔치는데 사용될 수 있습니다."
+   },
+   "revealSeedWordsWarningTitle": {
+      "message": "이 구문을 다른 사람과 절대로 공유하지 마세요!"
+   },
+   "revert": {
+      "message": "원복"
+   },
+   "rpc": {
+      "message": "사용자 정의 RPC"
+   },
+   "rpcUrl": {
+      "message": "새 RPC URL"
+   },
+   "sampleAccountName": {
+      "description": "각 계정에 대해서 구별하기 쉬운 이름을 지정하여 사용자가 쉽게 이해할 수 있게 합니다.",
+      "message": "예) 나의 새 계정"
+   },
+   "save": {
+      "message": "저장"
+   },
+   "saveAsCsvFile": {
+      "message": "CSV 파일로 저장"
+   },
+   "saveAsFile": {
+      "description": "계정 내보내기 절차",
+      "message": "파일로 저장"
+   },
+   "saveSeedAsFile": {
+      "message": "시드 단어를 파일로 저장하기"
+   },
+   "scanInstructions": {
+      "message": "카메라에 QR 코드를 인식해 주세요."
+   },
+   "scanQrCode": {
+      "message": "QR 코드 스캔"
+   },
+   "search": {
+      "message": "검색"
+   },
+   "searchTokens": {
+      "message": "토큰 검색"
+   },
+   "secondsShorthand": {
+      "message": "초"
+   },
+   "secretPhrase": {
+      "message": "시드 구문을 입력하여 계정을 복구할 수 있습니다. 각 단어는 공백 한 칸으로 분리되어야 합니다."
+   },
+   "secretPhraseMnemonic": {
+      "message": "시드 구문을 아래에 넣어주세요. 각 단어와 단어 사이에 공백 한칸을 넣어 분리해주셔야 합니다."
+   },
+   "securityAndPrivacy": {
+      "message": "보안 및 개인 정보 보호"
+   },
+   "securityGuide": {
+      "message": "안전 사용 가이드"
+   },
+   "securityGuideDetailDesc1": {
+      "message": "블록체인에서는 ID와 패스워드 없이 시드 구문만 가지고 계정의 소유권을 증명합니다. 비밀번호를 분실하거나 Kaikas 재설치 시, 시드 구문으로 기존 계정을 복구할 수 있습니다."
+   },
+   "securityGuideDetailDesc2": {
+      "message": "시드 구문은 Kaikas 설치 시 임의로 생성되어 본인에게만 제공되기 때문에, 시드 구문을 잃어버리면 계정을 복구할 수 있는 방법이 없습니다."
+   },
+   "securityGuideDetailDesc3": {
+      "message": "어떠한 경우에도 서비스는 시드 구문이나 지갑키(개인키)를 요구하지 않습니다. 시드 구문이나 지갑키가 유출될 경우 고객님의 자산을 탈취당할 수 있습니다."
+   },
+   "securityGuideDetailTitle1": {
+      "message": "1. 시드 구문을 안전하게 보관해주세요."
+   },
+   "securityGuideDetailTitle2": {
+      "message": "2. 당사는 시드 구문을 보관하지 않습니다."
+   },
+   "securityGuideDetailTitle3": {
+      "message": "3. 피싱이나 스캠에 주의해주세요."
+   },
+   "securityGuideTextBlock": {
+      "message": "안전한 Kaikas 사용을 위해 아래 내용을 꼼꼼하게 확인해주세요."
+   },
+   "seedPhraseAlreadyBackedup": {
+      "message": "예, 다른 방법으로 백업했어요"
+   },
+   "seedPhraseBackupWarning": {
+      "message": "시드 구문을 백업했는지 다시 한번 확인해주세요. 시드 구문이 없으면 계정을 복구할 수 없으니 주의 바랍니다."
+   },
+   "seedPhraseIsInvalid": {
+      "message": "시드 구문이 유효하지 않습니다."
+   },
+   "seedPhrasePlaceholder": {
+      "message": "시드 구문을 붙여넣으세요."
+   },
+   "seedPhraseReq": {
+      "message": "시드 구문은 12개의 단어입니다."
+   },
+   "seedPhraseVerified": {
+      "message": "시드 구문 확인 완료"
+   },
+   "seedPhraseVerifiedMsg": {
+      "message": "시드 구문 확인이 완료되었습니다. 시드 구문을 적어놓은 종이를 안전한 곳에 보관하고, 다른 사람에게 공유하지 말아주세요."
+   },
+   "select": {
+      "message": "선택"
+   },
+   "selectAnAccount": {
+      "message": "계정 선택"
+   },
+   "selectAnAddress": {
+      "message": "주소 선택"
+   },
+   "selectAnAsset": {
+      "message": "자산 선택"
+   },
+   "selectCurrency": {
+      "message": "통화 선택"
+   },
+   "selectEachPhrase": {
+      "message": "시드 구문이 올바른지 확인하기 위해 각 단어를 순서에 맞게 선택해주세요."
+   },
+   "selectHdPath": {
+      "message": "HD 경로 선택"
+   },
+   "selectLocale": {
+      "message": "언어 선택"
+   },
+   "selectService": {
+      "message": "서비스 선택"
+   },
+   "selectType": {
+      "message": "유형 선택"
+   },
+   "selectedNetwork": {
+      "message": "대상 네트워크"
+   },
+   "send": {
+      "message": "전송"
+   },
+   "sendAmount": {
+      "message": "전송 수량"
+   },
+   "sendKLAY": {
+      "message": "KLAY 전송"
+   },
+   "sendTokens": {
+      "message": "토큰 전송"
+   },
+   "sentKlay": {
+      "message": "KLAY 전송"
+   },
+   "sentTokens": {
+      "message": "토큰 전송"
+   },
+   "separateEachWord": {
+      "message": "각 단어를 공백 한 칸으로 분리하세요."
+   },
+   "serviceWillPayYourFee": {
+      "message": "이 서비스가 수수료 지불 및 이 트랜잭션의 처리를 진행합니다."
+   },
+   "setNewPassword": {
+      "message": "내 계정에 접근하기 위한 비밀번호를 설정하세요."
+   },
+   "setPasswordKeystore": {
+      "message": "비밀번호 설정"
+   },
+   "setPasswordKeystoreDescription": {
+      "message": "키스토어 파일의 비밀번호를 설정해주세요. 키스토어 파일은 계정을 가져오는데 사용되며 비밀번호는 복구할 수 없으니 유의해주세요."
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "showData": {
+      "message": "데이터 보기"
+   },
+   "showDetails": {
+      "message": "세부사항 보기"
+   },
+   "showHexData": {
+      "message": "Hex 데이터 보기"
+   },
+   "showPrivateKeys": {
+      "message": "개인키 보기"
+   },
+   "showQRCode": {
+      "message": "QR 코드 보기"
+   },
+   "showSeedLabel": {
+      "message": "시드 구문"
+   },
+   "sign": {
+      "message": "서명"
+   },
+   "signMessage": {
+      "message": "메시지 서명"
+   },
+   "signNotice": {
+      "message": "이 메시지에 대한 서명은 위험할 수 있습니다.\n 완전히 신뢰할 수 있는 사이트에서만 서명해주세요.\n 안전을 위해 추후의 버전에서는 삭제될 기능입니다. "
+   },
+   "signTheMessage": {
+      "message": "메시지 서명"
+   },
+   "signWith": {
+      "message": "서명 계정:"
+   },
+   "signatureRequest": {
+      "message": "서명 요청"
+   },
+   "signed": {
+      "message": "서명됨"
+   },
+   "slow": {
+      "message": "느림"
+   },
+   "slower": {
+      "message": "매우 느림"
+   },
+   "smartContractExecution": {
+      "message": "Contract Execution"
+   },
+   "somethingWentWrong": {
+      "message": "오류가 발생했습니다."
+   },
+   "spaceBetween": {
+      "message": "단어 사이에는 공백만 올 수 있습니다."
+   },
+   "speedUpCancellation": {
+      "message": "취소 속도 향상"
+   },
+   "speedUpTitle": {
+      "message": "트랜잭션 속도 향상"
+   },
+   "speedUpTransaction": {
+      "message": "트랜잭션 속도 향상"
+   },
+   "startKaikas": {
+      "message": "Kaikas 시작하기"
+   },
+   "stateLogError": {
+      "message": "상태 로그 받기에 실패했습니다."
+   },
+   "stateLogs": {
+      "message": "상태 로그"
+   },
+   "stateLogsDescription": {
+      "message": "Kaikas 사용 내역에 대한 로그입니다."
+   },
+   "status": {
+      "message": "상태"
+   },
+   "storeSeedPhrase": {
+      "message": "시드 구문 보관 안내"
+   },
+   "storeSeedPhraseConfirm": {
+      "message": "예, 안전한 곳에 보관했습니다."
+   },
+   "storeSeedPhraseDescription": {
+      "message": "아래 시드 구문을 종이에 적어 안전하게 보관해주세요. 이메일이나 컴퓨터에 보관할 경우 해킹으로 시드 구문이 유출될 수 있으니 삼가주세요."
+   },
+   "storeSeedPhraseWarning": {
+      "message": "※ 당사는 시드 구문을 따로 보관하지 않기 때문에, 시드 구문을 잃어버리면 계정을 복구할 수 있는 방법이 없습니다."
+   },
+   "submit": {
+      "message": "제출"
+   },
+   "submitted": {
+      "message": "제출"
+   },
+   "succeed": {
+      "message": "성공"
+   },
+   "success": {
+      "message": "성공!"
+   },
+   "successDescription": {
+      "message": "토큰 전송이 완료되었습니다."
+   },
+   "swap": {
+      "message": "교환"
+   },
+   "swapTokens": {
+      "message": "토큰 교환"
+   },
+   "swapTokensDescription": {
+      "message": "토큰 교환을 진행할 서비스를 선택해주세요. 서비스가 열리면 Kaikas를 연결한 뒤 토큰 교환을 할 수 있습니다. 일부 토큰은 지원되지 않습니다."
+   },
+   "switchNetworks": {
+      "message": "네트워크 변경"
+   },
+   "symbol": {
+      "message": "심볼"
+   },
+   "symbolBetweenZeroTwelve": {
+      "message": "심볼은 0-12개의 문자여야 합니다."
+   },
+   "syncVersion": {
+      "message": "1.0.0"
+   },
+   "terms": {
+      "message": "이용 약관"
+   },
+   "thisMayTakeAWhile": {
+      "message": "시간이 다소 소요될 수 있으니 기다려주세요."
+   },
+   "tips": {
+      "message": "팁"
+   },
+   "to": {
+      "message": "받는 사람"
+   },
+   "token": {
+      "message": "토큰"
+   },
+   "tokenAddress": {
+      "message": "토큰 주소"
+   },
+   "tokenAlreadyAdded": {
+      "message": "토큰이 이미 추가되어있습니다."
+   },
+   "tokenBalance": {
+      "message": "현재 토큰 잔액:"
+   },
+   "tokenCannotBeUsed": {
+      "message": "토큰 컨트랙트 주소가 유효하지 않기 때문에 토큰을 사용할 수 없습니다. 주소를 다시 확인하세요."
+   },
+   "tokenContractAddress": {
+      "message": "토큰 컨트랙트 주소"
+   },
+   "tokenContractAddressLower": {
+      "message": "토큰 컨트랙트 주소"
+   },
+   "tokenInfo": {
+      "message": "토큰 정보"
+   },
+   "tokenList": {
+      "message": "토큰 목록"
+   },
+   "tokenNotFound": {
+      "message": "토큰을 찾을 수 없습니다."
+   },
+   "tokenSelection": {
+      "message": "토큰을 검색하거나 유명한 토큰 목록에서 선택하세요."
+   },
+   "tokenSymbol": {
+      "message": "토큰 심볼"
+   },
+   "tokenSymbolLower": {
+      "message": "토큰 심볼"
+   },
+   "total": {
+      "message": "합계"
+   },
+   "transaction": {
+      "message": "트랜잭션"
+   },
+   "transactionCancelAttempted": {
+      "message": "$2에 $1의 가스 수수료로 트랜잭션 취소가 시도됨"
+   },
+   "transactionCancelSuccess": {
+      "message": "$2에 트랜잭션이 성공적으로 취소됨"
+   },
+   "transactionConfirmed": {
+      "message": "$2에 트랜잭션이 확인됨"
+   },
+   "transactionCreated": {
+      "message": "$2에 $1 수량의 트랜잭션이 생성됨"
+   },
+   "transactionDropped": {
+      "message": "$2에 트랜잭션이 폐기됨"
+   },
+   "transactionError": {
+      "message": "트랜잭션 오류. 컨트랙트 코드에서 예외 발생"
+   },
+   "transactionErrorNoContract": {
+      "message": "컨트랙트가 아닌 주소에서 함수 호출 시도 중"
+   },
+   "transactionErrored": {
+      "message": "트랜잭션 오류 발생"
+   },
+   "transactionFee": {
+      "message": "예상 수수료"
+   },
+   "transactionMemo": {
+      "message": "트랜잭션 메모 (선택사항)"
+   },
+   "transactionNumber": {
+      "message": "트랜잭션 번호"
+   },
+   "transactionResubmitted": {
+      "message": "$2에 $1으로 가스 수수료를 올려 트랜잭션이 다시 제출됨"
+   },
+   "transactionSubmitted": {
+      "message": "$2에 $1의 가스 수수료로 트랜잭션이 제출됨"
+   },
+   "transactionSubmittingProblem": {
+      "message": "트랜잭션 제출 중 문제가 발생했습니다."
+   },
+   "transactionTime": {
+      "message": "트랜잭션 시간"
+   },
+   "transactionUpdated": {
+      "message": "$2에 트랜잭션이 변경됨"
+   },
+   "transactionWithNonce": {
+      "message": "트랜잭션 $1"
+   },
+   "transactions": {
+      "message": "트랜잭션"
+   },
+   "transfer": {
+      "message": "전송"
+   },
+   "transferFrom": {
+      "message": "보내는 이"
+   },
+   "transfers": {
+      "message": "전송"
+   },
+   "troubleTokenBalances": {
+      "description": "뒤에 토큰 잔액을 볼 수 있는 (여기)가 붙음",
+      "message": "토큰 잔액을 가져오는 데에 문제가 생겼습니다. 링크에서 상세 내용을 볼 수 있습니다: "
+   },
+   "tryAgain": {
+      "message": "다시 시도하세요."
+   },
+   "twelveWords": {
+      "message": "이 12개의 단어는 Kaikas 계정을 복구하기 위한 유일한 방법입니다.\n안전한 장소에 보관하시기 바랍니다."
+   },
+   "txDelegation": {
+      "message": "수수료 대납"
+   },
+   "type": {
+      "message": "유형"
+   },
+   "typePassword": {
+      "message": "비밀번호를 입력하세요."
+   },
+   "typeYourKaikasPassword": {
+      "message": "비밀번호를 입력하세요."
+   },
+   "unapproved": {
+      "message": "미승인"
+   },
+   "unavailable": {
+      "message": "이용 불가"
+   },
+   "units": {
+      "message": "단위"
+   },
+   "unknown": {
+      "message": "알 수 없음"
+   },
+   "unknownCameraError": {
+      "message": "카메라에 접근하는 중 오류가 발생했습니다. 다시 시도해 주세요..."
+   },
+   "unknownCameraErrorTitle": {
+      "message": "이런! 뭔가 잘못되었습니다...."
+   },
+   "unknownNetwork": {
+      "message": "알 수 없는 프라이빗 네트워크"
+   },
+   "unknownNetworkId": {
+      "message": "알 수 없는 네트워크 ID"
+   },
+   "unknownQrCode": {
+      "message": "오류: QR 코드를 확인할 수 없습니다."
+   },
+   "unlock": {
+      "message": "잠금 해제"
+   },
+   "unlockMessage": {
+      "message": "Kaikas 잠금을 해제하려면 비밀번호를 입력해주세요."
+   },
+   "unlockYourKaikas": {
+      "message": "Kaikas™가\n잠김 상태입니다."
+   },
+   "updatedAccountExportMessage": {
+      "message": "해당 계정은 새로운 Klaytn Wallet Key로 업데이트 되었습니다. 개인키는 더 이상 유효하지 않아 제공되지 않습니다."
+   },
+   "updatedWithDate": {
+      "message": "$1에 변경 됨"
+   },
+   "uploadKeystoreFile": {
+      "message": "키스토어 파일 업로드 (JSON)"
+   },
+   "uriErrorMsg": {
+      "message": "URL은 HTTP/HTTPS로 시작해야 합니다."
+   },
+   "usedByClients": {
+      "message": "다양한 클라이언트에서 사용되고 있습니다."
+   },
+   "usingKeystoreFile": {
+      "message": "키스토어 파일 사용"
+   },
+   "usingPrivateKey": {
+      "message": "개인키 사용"
+   },
+   "validFileImport": {
+      "message": "가져오기 위해 유효한 파일을 선택해야 합니다."
+   },
+   "valueTransferMemo": {
+      "message": "Value Transfer Memo"
+   },
+   "verify": {
+      "message": "확인"
+   },
+   "verifySeedPhrase": {
+      "message": "시드 구문 확인"
+   },
+   "verifySeedPhraseDescription": {
+      "message": "종이에 적어놓은 시드 구문을 아래에 입력해주세요. 각 단어는 띄어쓰기 한 칸으로 구분합니다."
+   },
+   "viewNetworkInfo": {
+      "message": "네트워크 정보 보기"
+   },
+   "viewOnCustomBlockExplorer": {
+      "message": "$1에서 보기"
+   },
+   "viewOnKlaytnscope": {
+      "message": "klaytnfinder에서 보기"
+   },
+   "visitHelpCenter": {
+      "message": "고객센터 방문"
+   },
+   "visitWebSite": {
+      "message": "개발자 웹사이트 방문"
+   },
+   "walletSeed": {
+      "message": "시드 구문 입력"
+   },
+   "warning": {
+      "message": "경고"
+   },
+   "welcome": {
+      "message": "Kaikas에 오신 것을 환영합니다"
+   },
+   "welcomeBack": {
+      "message": "잘 돌아오셨습니다!"
+   },
+   "welcomeToKaikas": {
+      "message": "Kaikas™에 오신 것을 환영합니다"
+   },
+   "whatIsKlaytnWalletKey": {
+      "message": "지갑키란?"
+   },
+   "whatsThis": {
+      "message": "이것은 무엇인가요?"
+   },
+   "withDiscountedFee": {
+      "message": "(수수료 할인)"
+   },
+   "withoutFeeCharging": {
+      "message": "(수수료 무료)"
+   },
+   "yesLetsTry": {
+      "message": "네, 시도해보겠습니다."
+   },
+   "you": {
+      "message": "나"
+   },
+   "youHaveNoTokensAdded": {
+      "message": "추가된 토큰이 없습니다."
+   },
+   "youNeedToAllowCameraAccess": {
+      "message": "이 기능을 사용하려면 카메라 접근을 허용해야 합니다."
+   },
+   "youSign": {
+      "message": "서명 대상"
+   },
+   "yourAccount": {
+      "message": "내 계정"
+   },
+   "yourBalance": {
+      "message": "내 잔액"
+   },
+   "yourPrivateSeedPhrase": {
+      "message": "개인 시드 구문"
+   },
+   "yourSigRequested": {
+      "message": "이 웹사이트가 다음 항목에 대해 서명을 요청하고 있습니다. 서명하기 전에 이 웹사이트가 신뢰할만한 곳인지 꼭 확인하세요."
+   }
+}

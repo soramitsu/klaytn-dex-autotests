@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Symbol / mineral_skypeople</title>
+    <defs>
+        <linearGradient x1="50.0007837%" y1="-1.94862167%" x2="50.0007837%" y2="95.8887393%" id="linearGradient-1">
+            <stop stop-color="#B96CED" offset="0%"></stop>
+            <stop stop-color="#6C84E5" offset="33%"></stop>
+            <stop stop-color="#3EA0DA" offset="66%"></stop>
+            <stop stop-color="#3BA3DC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0000603%" y1="-1.94862167%" x2="50.0000603%" y2="95.8887393%" id="linearGradient-2">
+            <stop stop-color="#B96CED" offset="0%"></stop>
+            <stop stop-color="#6C84E5" offset="33%"></stop>
+            <stop stop-color="#3EA0DA" offset="66%"></stop>
+            <stop stop-color="#3BA3DC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.484194%" y1="-13.6616104%" x2="46.726456%" y2="77.8478926%" id="linearGradient-3">
+            <stop stop-color="#4897C4" stop-opacity="0" offset="40%"></stop>
+            <stop stop-color="#47A1D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.9627634%" y1="-12.89309%" x2="34.5750093%" y2="85.4579535%" id="linearGradient-4">
+            <stop stop-color="#4897C4" stop-opacity="0" offset="40%"></stop>
+            <stop stop-color="#47A1D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="70.779959%" y1="-35.936437%" x2="24.9728854%" y2="153.546741%" id="linearGradient-5">
+            <stop stop-color="#4897C4" stop-opacity="0" offset="40%"></stop>
+            <stop stop-color="#47A1D2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="67.7522572%" y1="36.2888225%" x2="40.473583%" y2="73.1381372%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0.7" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.0299636%" y1="-12.2331675%" x2="50.7268684%" y2="41.0087295%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="54.6890549%" y1="-16.8310289%" x2="46.1339753%" y2="40.3913893%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="61.9035194%" y1="-21.5927995%" x2="43.5807372%" y2="88.6519677%" id="linearGradient-9">
+            <stop stop-color="#FFFFFF" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.4091673%" y1="-23.1532509%" x2="49.6765137%" y2="80.3212764%" id="linearGradient-10">
+            <stop stop-color="#70C0E2" offset="0%"></stop>
+            <stop stop-color="#4EAAD1" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.1400811%" y1="18.2121469%" x2="49.8219157%" y2="86.4005664%" id="linearGradient-11">
+            <stop stop-color="#70C0E2" offset="0%"></stop>
+            <stop stop-color="#4EAAD1" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9966686%" y1="0.000152985121%" x2="49.9966686%" y2="99.9991454%" id="linearGradient-12">
+            <stop stop-color="#5FD6FD" offset="0%"></stop>
+            <stop stop-color="#4EAAD1" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbol-/-mineral_skypeople" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" opacity="0" x="0" y="0" width="24" height="24"></rect>
+        <g id="mineral_skypeople" transform="translate(0.000000, 3.000000)">
+            <path d="M12.450087,19.1276522 L12.450087,1.61704348 L13.7652174,0.0302608696 L18.1081739,0.0302608696 L23.9888696,6.33634783 L23.9888696,7.77391304 L16.7266087,15.5617391 C16.5606957,15.7394783 16.2626087,15.6222609 16.2626087,15.3791304 L16.2626087,10.9526957 L19.7137391,7.25182609 L16.4177391,3.71721739 L15.1290435,4.74782609 L15.1290435,17.2747826 L13.1457391,19.4017391 C12.8970435,19.6685217 12.450087,19.4925217 12.450087,19.1276522 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M11.5391304,19.1276522 L11.5391304,1.61704348 L10.224,0.0302608696 L5.88104348,0.0302608696 L0.000695652174,6.33669565 L0.000695652174,7.77426087 L7.26295652,15.562087 C7.42886957,15.7398261 7.72695652,15.6226087 7.72695652,15.3794783 L7.72695652,10.9526957 L4.27582609,7.25182609 L7.57182609,3.71721739 L8.86052174,4.74782609 L8.86052174,17.2747826 L10.8438261,19.4017391 C11.0921739,19.6685217 11.5391304,19.4925217 11.5391304,19.1276522 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" points="12.450087 12.2542609 15.1293913 15.0751304 15.1293913 9.85913043 12.450087 9.27373913"></polygon>
+            <path d="M16.917913,10.250087 L16.2626087,10.9526957 L16.2626087,15.3794783 C16.2626087,15.6226087 16.5606957,15.7401739 16.7266087,15.562087 L20.874087,11.1144348 L16.917913,10.250087 Z" id="Path" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="url(#linearGradient-5)" fill-rule="nonzero" points="11.5391304 11.2949565 11.5391304 9.07478261 8.87826087 8.49321739"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-6)" fill-rule="nonzero" opacity="0.3" points="5.97182609 5.43269565 3.38434783 2.70817391 0.000695652174 6.33669565 0.000695652174 6.5533913 4.55165217 7.54782609 4.27547826 7.25182609"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-7)" fill-rule="nonzero" points="12.450087 12.2542609 15.1293913 15.0751304 15.1293913 9.85913043 12.450087 9.27373913"></polygon>
+            <path d="M16.917913,10.250087 L16.2626087,10.9526957 L16.2626087,15.3794783 C16.2626087,15.6226087 16.5606957,15.7401739 16.7266087,15.562087 L20.874087,11.1144348 L16.917913,10.250087 Z" id="Path" fill="url(#linearGradient-8)" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="url(#linearGradient-9)" fill-rule="nonzero" points="11.5391304 11.2949565 11.5391304 9.07478261 8.87826087 8.49321739"></polygon>
+            <path d="M12.450087,19.1276522 C12.450087,19.4925217 12.8970435,19.6685217 13.1457391,19.4017391 L15.1290435,17.2747826 L15.1290435,15.0751304 L12.450087,12.2542609 L12.450087,19.1276522 Z" id="Path" fill="url(#linearGradient-10)" fill-rule="nonzero"></path>
+            <path d="M8.86017391,8.4893913 L8.86017391,17.2751304 L10.8434783,19.402087 C11.0921739,19.6688696 11.5391304,19.4928696 11.5391304,19.128 L11.5391304,11.2949565 L8.87826087,8.49321739 L8.86017391,8.4893913 Z" id="Path" fill="url(#linearGradient-11)" fill-rule="nonzero"></path>
+            <path d="M0.000695652174,7.77426087 L7.26295652,15.562087 C7.42886957,15.7398261 7.72695652,15.6226087 7.72695652,15.3794783 L7.72695652,10.9526957 L4.55165217,7.54782609 L0.000695652174,6.5533913 L0.000695652174,7.77426087 Z" id="Path" fill="url(#linearGradient-12)" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#4190CE" fill-rule="nonzero" points="0.000695652174 6.45669565 0.000695652174 6.65008696 4.66504348 7.66921739 4.43826087 7.42643478"></polygon>
+            <polygon id="Path" fill="#4190CE" fill-rule="nonzero" points="11.5391304 8.97773913 8.92695652 8.40695652 8.86017391 8.39234783 8.86017391 8.58608696 8.86017391 8.61147826 11.5391304 11.4323478 11.5391304 11.157913 9.1586087 8.65113043 11.5391304 9.17147826"></polygon>
+            <polygon id="Path" fill="#4190CE" fill-rule="nonzero" points="12.450087 9.17704348 12.450087 9.37043478 15.1293913 9.95582609 15.1293913 9.76243478"></polygon>
+            <polygon id="Path" fill="#4190CE" fill-rule="nonzero" points="16.9930435 10.1693913 16.8431304 10.3304348 20.7993043 11.1947826 20.9492174 11.034087"></polygon>
+            <polygon id="Path" fill="#4190CE" fill-rule="nonzero" points="12.450087 12.3916522 15.1293913 15.2125217 15.1293913 14.938087 12.450087 12.1168696"></polygon>
+            <polygon id="Path" fill="#576DB2" fill-rule="nonzero" points="6.03652174 5.36347826 3.44869565 2.63895652 3.31965217 2.7773913 5.90713043 5.50191304"></polygon>
+        </g>
+    </g>
+</svg>

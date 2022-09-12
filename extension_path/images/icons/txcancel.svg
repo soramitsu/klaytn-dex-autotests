@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icon/txcancel</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.75,8 C2.75,6.86775 3.114,5.82125 3.725625,4.962875 L11.037125,12.274375 C10.17875,12.886 9.13225,13.25 8,13.25 C5.104625,13.25 2.75,10.895375 2.75,8 M13.25,8 C13.25,9.13225 12.886,10.17875 12.274375,11.037125 L4.962875,3.725625 C5.82125,3.114 6.86775,2.75 8,2.75 C10.895375,2.75 13.25,5.104625 13.25,8 M1,8 C1,11.859625 4.140375,15 8,15 C11.859625,15 15,11.859625 15,8 C15,4.140375 11.859625,1 8,1 C4.140375,1 1,4.140375 1,8" id="path-1"></path>
+    </defs>
+    <g id="icon/txcancel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Icon" fill="#FFFFFF" transform="translate(8.000000, 8.000000) scale(-1, 1) translate(-8.000000, -8.000000) " xlink:href="#path-1"></use>
+    </g>
+</svg>
