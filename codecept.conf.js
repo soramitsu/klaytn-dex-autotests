@@ -5,10 +5,13 @@ exports.config = {
   helpers: {
     Puppeteer: {
       url: '',
+      restart: true,
       show: true,
+      keepBrowserState: false,
+      keepCookies: false,
       windowSize: '1600x900',
       chrome: {
-        userDataDir: '/tmp/puppeteer-tmp',
+        userDataDir: 'tmp/puppeteer-tmp',
         args: [`--disable-extensions-except=${pathToExtension}`,
         `--load-extension=${pathToExtension}`,
         ]
