@@ -22,8 +22,7 @@ pipeline {
                         docker.image( "docker.soramitsu.co.jp/build-tools/" + agentImage ).inside(){
                             sh '''
                                 pnpm i
-                                npx codeceptjs run --plugins allure || true
-                                ls -aslh *
+                                npx codeceptjs run --plugins allure
                             '''
                         }
                     }
