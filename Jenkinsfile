@@ -1,5 +1,6 @@
 @Library('jenkins-library')
 
+String agentLabel            = 'docker-build-agent'
 String agentImage            = 'node:16-pnpm7'
 String registryUrl           = 'https://docker.soramitsu.co.jp'
 String registryCredentialsId = 'bot-build-tools-ro'
@@ -10,7 +11,9 @@ pipeline {
         timestamps()
         disableConcurrentBuilds()
     }
-    agent any
+    agent {
+        label agentLabel
+    }
     stages {
         stage('Run tests') {
             steps {
