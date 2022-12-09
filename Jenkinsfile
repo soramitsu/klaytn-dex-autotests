@@ -30,5 +30,16 @@ pipeline {
             }
         }
     }
-    
+    post {
+        always {
+            script {
+                allure report: 'allure_reports', results: [[path: 'allure-results']]
+            }
+        }
+        cleanup {
+            script {
+                cleanWs()
+            }
+        }
+    }
 }
