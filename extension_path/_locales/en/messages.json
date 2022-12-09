@@ -1,0 +1,1952 @@
+{
+   "EOATokenAddressWarning": {
+      "message": "The address you entered cannot be added because it represents an account, not a token."
+   },
+   "about": {
+      "message": "About Kaikas"
+   },
+   "accept": {
+      "message": "Accept"
+   },
+   "accessingYourCamera": {
+      "message": "Accessing your camera..."
+   },
+   "account": {
+      "message": "Account"
+   },
+   "accountDetails": {
+      "message": "Account Details"
+   },
+   "accountDetailsWarning1": {
+      "message": "※ You can only receive Klaytn-based assets."
+   },
+   "accountDetailsWarning2": {
+      "message": "Assets from any other chains will not be retrievable."
+   },
+   "accountName": {
+      "message": "Account Nickname"
+   },
+   "accountNameAlreadyInUse": {
+      "message": "Nickname already in use by your account."
+   },
+   "accountNameCantBeEmpty": {
+      "message": "Nickname can't be empty."
+   },
+   "accountNickname": {
+      "message": "Account Nickname"
+   },
+   "accountNicknameVisibleOnlyToYou": {
+      "message": "The account nickname will be visible only to you."
+   },
+   "accountOptions": {
+      "message": "Account Options"
+   },
+   "accountToUpdate": {
+      "message": "Account to Update"
+   },
+   "accountUpdate": {
+      "message": "Account Update"
+   },
+   "accountUpdateChecklist1": {
+      "message": "Klaytn Wallet Key for the current network will be updated. Back up the private key coupled with the new public key."
+   },
+   "accountUpdateChecklist2": {
+      "message": "To continue using Kaikas, replace your Klaytn Wallet Key on the account details page."
+   },
+   "accountUpdateChecklist3": {
+      "message": "Once you update your account, you cannot sign the legacy type transactions due to compatibility issues."
+   },
+   "activityLog": {
+      "message": "Activity log"
+   },
+   "add": {
+      "message": "Add"
+   },
+   "addCustomToken": {
+      "message": "Add custom token"
+   },
+   "addNetwork": {
+      "message": "Add Network"
+   },
+   "addSuggestedTokens": {
+      "message": "Add Suggested Tokens"
+   },
+   "addTo": {
+      "message": "Add to"
+   },
+   "addToken": {
+      "message": "Add Token"
+   },
+   "addTokens": {
+      "message": "Add Tokens"
+   },
+   "addedTokens": {
+      "message": "Added Tokens"
+   },
+   "address": {
+      "message": "Address"
+   },
+   "addressBookFailed": {
+      "message": "Address book failed to update"
+   },
+   "advanced": {
+      "message": "Advanced"
+   },
+   "advancedOptions": {
+      "message": "Advanced Options"
+   },
+   "allDone": {
+      "message": "All Done"
+   },
+   "allowCamera1": {
+      "message": "Please allow or unblock the camera access."
+   },
+   "allowCamera2": {
+      "message": "To continue sending, close the tab and run Kaikas again."
+   },
+   "amount": {
+      "message": "Amount"
+   },
+   "amountPlusGas": {
+      "message": "Amount + Gas"
+   },
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "Experience the Klaytn blockchain wallet in your browser"
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "Kaikas"
+   },
+   "approvalData": {
+      "message": "Privacy Data"
+   },
+   "approvalPageDescription": {
+      "message": "This website is requesting access to your account information. Make sure you can trust this website before you grant access."
+   },
+   "approvalPageInfo": {
+      "message": "would like to connect to your account."
+   },
+   "approvalWarningMessage": {
+      "message": "Permission to access your tokens anytime within the limit speficied below will be granted to the website."
+   },
+   "approve": {
+      "message": "Approve"
+   },
+   "approved": {
+      "message": "Approved"
+   },
+   "asset": {
+      "message": "Asset"
+   },
+   "attemptToCancel": {
+      "message": "Cancel Transaction"
+   },
+   "attemptToCancelDescription": {
+      "message": "Submitting cancellation does not guarantee your original transaction will be cancelled. If the cancellation attempt is successful, you will be charged the transaction fee below."
+   },
+   "attemptToRemove": {
+      "message": "Remove Transaction"
+   },
+   "attemptToRemoveDescription": {
+      "message": "You are going to remove this transaction from the list. This action doesn't affect the transaction. Once you remove it, you cannot revert the action and cannot track this transaction any more."
+   },
+   "attributions": {
+      "message": "Attributions"
+   },
+   "attributions_desc1": {
+      "message": "Kaikas uses the following:"
+   },
+   "attributions_desc2": {
+      "message": "Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:"
+   },
+   "attributions_desc3": {
+      "message": "The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software."
+   },
+   "attributions_desc4": {
+      "message": "THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+   },
+   "autoLockDescription": {
+      "message": "Kaikas will lock automatically after a set amount of time."
+   },
+   "autoLogoutTimeLimit": {
+      "message": "Auto-Lock Timer"
+   },
+   "available": {
+      "message": "Available"
+   },
+   "average": {
+      "message": "Average"
+   },
+   "back": {
+      "message": "Back"
+   },
+   "backToMain": {
+      "message": "Back to Main"
+   },
+   "backupSeedPhrase": {
+      "message": "Backup Seed Phrase"
+   },
+   "backupSeedPhraseWarningMsg1": {
+      "message": "Make sure you have backed up your seed phrase. Without a backup, your assets will be lost forever if you forget your password or reinstall Kaikas."
+   },
+   "backupSeedPhraseWarningMsg2": {
+      "message": "If you have not backed up the seed phrase, click the button below to back up the seed phrase now."
+   },
+   "backupSeedPhraseWarningMsg3": {
+      "message": "You can also access it through the “Reveal Seed Phrase” menu in Settings."
+   },
+   "backupSeedPhraseWarningTitle": {
+      "message": "Backup Your Seed Phrase"
+   },
+   "balance": {
+      "message": "Balance"
+   },
+   "balanceOutdated": {
+      "message": "Balance may be outdated"
+   },
+   "balances": {
+      "message": "Token balance(s)"
+   },
+   "baobab": {
+      "message": "Baobab Testnet"
+   },
+   "basic": {
+      "message": "Basic"
+   },
+   "blockExplorerUrl": {
+      "message": "Block Explorer"
+   },
+   "blockiesIdenticon": {
+      "message": "Use Blockies Identicon"
+   },
+   "browserNotSupported": {
+      "message": "Your Browser is not supported..."
+   },
+   "buy": {
+      "message": "Buy"
+   },
+   "buyKlay": {
+      "message": "Buy KLAY"
+   },
+   "buyKlayDescription": {
+      "message": "You can buy KLAY with credit card via the services below. Once your purchase has been made, your KLAY will be sent to your Kaikas account."
+   },
+   "buyKlayMoonPayDescription": {
+      "message": "* MoonPay registration required."
+   },
+   "bytes": {
+      "message": "Bytes"
+   },
+   "callBytecode": {
+      "message": "Call Bytecode"
+   },
+   "cameraNotAvailable": {
+      "message": "Camera Not Available"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "cancelAttempt": {
+      "message": "Cancel Attempt"
+   },
+   "cancelPendingTx": {
+      "message": "If the loading state continues, cancel the pending transactions first."
+   },
+   "cancelPendingTxMessage1": {
+      "message": "Kaikas only processes one transaction at a time. Open Kaikas and refresh the pending transaction. If the service doesn’t process your transaction for a while, cancel the pending transaction."
+   },
+   "cancelPendingTxMessage2": {
+      "message": "Kaikas only processes one transaction at a time. Refresh the pending transaction below. If the service doesn’t process your transaction for a while, cancel the pending transaction."
+   },
+   "cancellationFee": {
+      "message": "Cancellation Fee"
+   },
+   "cancellationGasFee": {
+      "message": "Cancellation Gas Fee"
+   },
+   "cancelled": {
+      "message": "Cancelled"
+   },
+   "cannotRestoreAccount": {
+      "message": "Cannot Restore Account"
+   },
+   "cannotRestoreDescription": {
+      "message": "You can clear your accounts data from Kaikas and set a new password. If you do so, you will lose access to the accounts you've attached to the Wallet. You will need to import them again once you set a new password."
+   },
+   "cannotRestoreIsAccept": {
+      "message": "I understand that Kaikas does not store backups of my accounts keys, and I will lose access to them by clearing my application data."
+   },
+   "chainId": {
+      "message": "Chain ID"
+   },
+   "change": {
+      "message": "Change"
+   },
+   "changeComplete": {
+      "message": "Your Kaikas password has been changed."
+   },
+   "changePassword": {
+      "message": "Change Kaikas Password"
+   },
+   "changed": {
+      "message": "Changed!"
+   },
+   "chooseImportYourAccount": {
+      "message": "Choose a Way to Import Your Account"
+   },
+   "clearAll": {
+      "message": "Clear All"
+   },
+   "clearAllHistory": {
+      "message": "Clear All History"
+   },
+   "clearAllHistoryDescription1": {
+      "message": "This option will remove all transaction history from this account. This action is irreversible. But you can still view past transaction history on klaytnfinder."
+   },
+   "clearAllHistoryDescription2": {
+      "message": "Please keep in mind that pending transactions may still go through even if you clear all history."
+   },
+   "clearData": {
+      "message": "Clear Kaikas Data"
+   },
+   "clearPrivacyData": {
+      "message": "Manage Access Permissions"
+   },
+   "clearPrivacyDescription": {
+      "message": "You can click the Clear All button to delete access from all websites, or click the X button to remove access from each website."
+   },
+   "clickCopy": {
+      "message": "Click to Copy"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "company": {
+      "message": "Company"
+   },
+   "confirm": {
+      "message": "Confirm"
+   },
+   "confirmContract": {
+      "message": "Confirm Contract"
+   },
+   "confirmPassword": {
+      "message": "Repeat Password"
+   },
+   "confirmPasswordPlaceholder": {
+      "message": "Repeat password"
+   },
+   "confirmSendMessage": {
+      "message": "※ Confirm that the receiving address is a Klaytn address. Assets sent to any other chains will not be retrievable."
+   },
+   "confirmYourTx": {
+      "message": "Confirm Your TX"
+   },
+   "confirmed": {
+      "message": "Confirmed"
+   },
+   "congratulations": {
+      "message": "Congratulations"
+   },
+   "connect": {
+      "message": "Connect"
+   },
+   "connectHardware": {
+      "message": "Connect Hardware Wallet"
+   },
+   "connectHardwareDescription": {
+      "message": "Select a hardware wallet you'd like to use with Kaikas."
+   },
+   "connectRequest": {
+      "message": "Connect Request"
+   },
+   "connectRequestCheckboxMsg": {
+      "message": "I trust this website and accept all responsibility of use of the service."
+   },
+   "connecting": {
+      "message": "Connecting..."
+   },
+   "connectingTo": {
+      "message": "Connecting to $1"
+   },
+   "connectingToBaobab": {
+      "message": "Connecting to Baobab Test Network"
+   },
+   "connectingToLocalhost": {
+      "message": "Connecting to Localhost 8551"
+   },
+   "connectingToMainnet": {
+      "message": "Connecting to Mainnet"
+   },
+   "connectingToUnknown": {
+      "message": "Connecting to Unknown Network"
+   },
+   "connectionRequest": {
+      "message": "Connect to dApp"
+   },
+   "continue": {
+      "message": "Continue"
+   },
+   "contract": {
+      "message": "Contract"
+   },
+   "contractDeployment": {
+      "message": "Contract Deployment"
+   },
+   "contractExecution": {
+      "message": "Contract Execution"
+   },
+   "copiedButton": {
+      "message": "Copied"
+   },
+   "copiedClipboard": {
+      "message": "Copied to Clipboard"
+   },
+   "copiedExclamation": {
+      "message": "Copied"
+   },
+   "copiedTransactionId": {
+      "message": "Copied Transaction ID"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "copyAddress": {
+      "message": "Copy Address"
+   },
+   "copyAddressToClipboard": {
+      "message": "Copy address to clipboard"
+   },
+   "copyButton": {
+      "message": " Copy "
+   },
+   "copyToClipboard": {
+      "message": "Copy to Clipboard"
+   },
+   "copyTransactionId": {
+      "message": "Copy Transaction ID"
+   },
+   "create": {
+      "message": "Create"
+   },
+   "createAWallet": {
+      "message": "Create a Wallet"
+   },
+   "createAccount": {
+      "message": "Create Account"
+   },
+   "createDen": {
+      "message": "Create"
+   },
+   "createPassword": {
+      "message": "Set a unique password that will be used to access your accounts."
+   },
+   "createPasswordLabel": {
+      "message": "Create password"
+   },
+   "createPasswordLabelPlaceholder": {
+      "message": "Create password"
+   },
+   "creator": {
+      "message": "Creator"
+   },
+   "crypto": {
+      "description": "Exchange type (cryptocurrencies)",
+      "message": "Crypto"
+   },
+   "currency": {
+      "message": "Currency"
+   },
+   "currencyConversion": {
+      "message": "Currency Conversion"
+   },
+   "currentLanguage": {
+      "message": "Current Language"
+   },
+   "currentNetwork": {
+      "message": "Current Network"
+   },
+   "currentRpc": {
+      "message": "Current RPC"
+   },
+   "customGas": {
+      "message": "Customize Gas"
+   },
+   "customToken": {
+      "message": "Custom Token"
+   },
+   "customize": {
+      "message": "Customize"
+   },
+   "cypress": {
+      "message": "Mainnet"
+   },
+   "decimal": {
+      "message": "Decimals of Precision"
+   },
+   "decimalLabel": {
+      "message": "Decimal"
+   },
+   "decimalLower": {
+      "message": "Decimals of precision"
+   },
+   "decimalsMustZerotoTen": {
+      "message": "Decimals must be at least 0, and not over 36."
+   },
+   "defaultNetwork": {
+      "message": "The default network for Klaytn transactions is Main Net."
+   },
+   "defaultNicknamePlaceholder": {
+      "message": "Account 1"
+   },
+   "delegatedTX": {
+      "message": "Delegated TX"
+   },
+   "delegatedTransaction": {
+      "message": "Delegated Transaction"
+   },
+   "delegatedTransactionDescription": {
+      "message": "More details of this transaction can be found on klaytnfinder."
+   },
+   "deposit": {
+      "message": "Deposit"
+   },
+   "depositFromAccount": {
+      "message": "Deposit from another account"
+   },
+   "details": {
+      "message": "Details"
+   },
+   "directDeposit": {
+      "message": "Direct Deposit"
+   },
+   "done": {
+      "message": "Done"
+   },
+   "dontShowAgain": {
+      "message": "Don't Show Again"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "downloadAsAFile": {
+      "message": "Download as a File"
+   },
+   "downloadComplete": {
+      "message": "Download Complete"
+   },
+   "downloadSecretBackup": {
+      "message": "Save as Keystore File"
+   },
+   "downloadSeedPhraseCompleteMsg": {
+      "message": "You have successfully downloaded the seed phrase. Once again, keep this file in a safe place to protect your assets safe."
+   },
+   "downloadSeedPhraseCompleteWarning": {
+      "message": "Without a backup, there is no way to restore your account."
+   },
+   "downloadStateLogs": {
+      "message": "State Logs"
+   },
+   "dropped": {
+      "message": "Dropped"
+   },
+   "duplicatedAccount": {
+      "message": "The account you're are trying to import is a duplicate"
+   },
+   "edit": {
+      "message": "Edit"
+   },
+   "editAccountName": {
+      "message": "Edit Account Name"
+   },
+   "editNetwork": {
+      "message": "Edit Network"
+   },
+   "editingTransaction": {
+      "message": "Make changes to your transaction"
+   },
+   "emailUs": {
+      "message": "Email Us"
+   },
+   "endOfFlowMessage": {
+      "message": "A dApp will never ask for your seed phrase. Giving away your seed phrase may result in the loss of your assets."
+   },
+   "enterAccountNickname": {
+      "message": "Enter Account Nickname"
+   },
+   "enterCurrentPassword": {
+      "message": "Enter your current Kaikas password."
+   },
+   "enterKeystorePassword": {
+      "message": "Enter keystore password"
+   },
+   "enterKeystorePasswordPlaceholder": {
+      "message": "Enter keystore password"
+   },
+   "enterNewPassword": {
+      "message": "Set a new password that will be used to access your accounts in Kaikas."
+   },
+   "enterPassword": {
+      "message": "Enter Password"
+   },
+   "enterPasswordConfirm": {
+      "message": "Enter your password to confirm"
+   },
+   "enterPasswordContinue": {
+      "message": "Enter password to continue"
+   },
+   "enterSeedPhrase": {
+      "message": "Enter Seed Phrase"
+   },
+   "enterSeedPhraseError": {
+      "message": "Seed phrase is incorrect."
+   },
+   "enterSeedPhrasePlaceholder": {
+      "message": "Please enter your seed phrase."
+   },
+   "enterYourKaikasPassword": {
+      "message": "Enter Your Kaikas Password"
+   },
+   "errorImportAccount": {
+      "message": "Error importing account."
+   },
+   "estimatedFee": {
+      "message": "Estimated Fee"
+   },
+   "exchangeRate": {
+      "message": "Exchange Rate"
+   },
+   "expandView": {
+      "message": "Expand View"
+   },
+   "exportKlaytnWalletKey": {
+      "message": "Export Wallet Key"
+   },
+   "exportPrivateKey": {
+      "message": "Export Private Key"
+   },
+   "exposeAccounts": {
+      "message": "Expose Accounts"
+   },
+   "failed": {
+      "message": "Failed"
+   },
+   "failedDelegatedTransactionDescription": {
+      "message": "Fee-deleagted transaction submitted, but failed. The user might have cancelled the transaction, or it could be a network error."
+   },
+   "failedDescription": {
+      "message": "Your transaction has failed. Connection was interrupted. Please check transaction history to verify if transaction was sent."
+   },
+   "fast": {
+      "message": "Fast"
+   },
+   "faster": {
+      "message": "Faster"
+   },
+   "fastest": {
+      "message": "Fastest"
+   },
+   "feeChartTitle": {
+      "message": "Live Transaction Fee Predictions"
+   },
+   "feeDelegated": {
+      "message": "Fee Delegated"
+   },
+   "feeDelegation": {
+      "message": "Fee Delegation"
+   },
+   "feeDelegationDescription_1": {
+      "message": "This transaction will be sent to service."
+   },
+   "feeDelegationDescription_2": {
+      "message": "Then the service will process your request."
+   },
+   "feePaid": {
+      "message": "Fee Paid"
+   },
+   "feePayer": {
+      "message": "Fee Payer"
+   },
+   "feePaymentDescription": {
+      "message": "You are about to pay the fee to process the delegated transaction below."
+   },
+   "feeToPay": {
+      "message": "Fee to Pay"
+   },
+   "fetchingReceipt": {
+      "message": "Retrieving transaction..."
+   },
+   "fiat": {
+      "description": "Exchange type",
+      "message": "Fiat"
+   },
+   "forgetDevice": {
+      "message": "Forget this device"
+   },
+   "forgotMnemonicPhrase": {
+      "message": "Forgot seed phrase?"
+   },
+   "forgotPassword": {
+      "message": "Forgot password?"
+   },
+   "from": {
+      "message": "From"
+   },
+   "functionType": {
+      "message": "Function Type"
+   },
+   "gas": {
+      "description": "Short indication of gas cost",
+      "message": "Gas"
+   },
+   "gasFee": {
+      "message": "Gas Fee"
+   },
+   "gasLimit": {
+      "message": "Gas Limit"
+   },
+   "gasLimitTooLow": {
+      "message": "Gas limit must be at least 21000"
+   },
+   "gasPrice": {
+      "message": "Gas Price (GPEB)"
+   },
+   "gasUsed": {
+      "message": "Gas Used"
+   },
+   "general": {
+      "message": "General"
+   },
+   "generatingTransaction": {
+      "message": "Generating transaction"
+   },
+   "getHelp": {
+      "message": "Get Help."
+   },
+   "getStarted": {
+      "message": "Get Started"
+   },
+   "greaterThanMin": {
+      "description": "helper for inputting hex as decimal input",
+      "message": "must be greater than or equal to $1."
+   },
+   "here": {
+      "description": "as in -click here- for more information (goes with troubleTokenBalances)",
+      "message": "here"
+   },
+   "hereList": {
+      "message": "Here's a list!"
+   },
+   "hexData": {
+      "message": "Hex Data"
+   },
+   "hide": {
+      "message": "Hide"
+   },
+   "hideData": {
+      "message": "Hide Data"
+   },
+   "hideDetails": {
+      "message": "Hide details"
+   },
+   "hideToken": {
+      "message": "Hide Token"
+   },
+   "hideTokenPrompt": {
+      "message": "Remove Token"
+   },
+   "history": {
+      "message": "Transaction History"
+   },
+   "hour": {
+      "message": "hour"
+   },
+   "httpsWarning": {
+      "message": "If HTTPS secure connection is not used, a third party can eavesdrop or modify contents more easily and Kaikas shall not be responsible for any outcome."
+   },
+   "import": {
+      "description": "Button to import an account from a selected file",
+      "message": "Import"
+   },
+   "importAccount": {
+      "message": "Import Account"
+   },
+   "importAccountSeedPhrase": {
+      "message": "Import an Account with Seed Phrase"
+   },
+   "importAnAccount": {
+      "message": "Import an account"
+   },
+   "importWallet": {
+      "message": "Import Wallet"
+   },
+   "importWithSeedPhrase": {
+      "message": "Import with seed phrase"
+   },
+   "importantNotice": {
+      "message": "Cautions before using Kaikas"
+   },
+   "importantNoticeUrl": {
+      "message": "https://kaikas.zendesk.com/hc/en-us/articles/4407651714703"
+   },
+   "imported": {
+      "description": "status showing that an account has been fully loaded into the keyring",
+      "message": "Imported"
+   },
+   "incorrectPassword": {
+      "message": "Incorrect Password"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "infoHelp": {
+      "message": "Info & Help"
+   },
+   "initialTransactionConfirmed": {
+      "message": "Your initial transaction was confirmed by the network. Click OK to go back."
+   },
+   "installationComplete": {
+      "message": "Installation Complete!"
+   },
+   "installationGuide": {
+      "message": "click the Kaikas icon in your brower to continue."
+   },
+   "insufficientBalance": {
+      "message": "Insufficient balance."
+   },
+   "insufficientFees": {
+      "message": "Not enough {SYMBOL} for transaction fee."
+   },
+   "insufficientFunds": {
+      "message": "Insufficient balance."
+   },
+   "insufficientTokens": {
+      "message": "Insufficient balance."
+   },
+   "invalidAddress": {
+      "message": "Invalid address"
+   },
+   "invalidAddressRecipient": {
+      "message": "Invalid recipient address"
+   },
+   "invalidAddressRecipientNotKlaytnNetwork": {
+      "message": "Not Klaytn network, set to lowercase"
+   },
+   "invalidChainId": {
+      "message": "Invalid Chain ID"
+   },
+   "invalidExplorer": {
+      "message": "Invalid Explorer URL"
+   },
+   "invalidFieType": {
+      "message": "Invalid file type."
+   },
+   "invalidKlaytnWalletKey": {
+      "message": "Invalid Klaytn Wallet Key"
+   },
+   "invalidPassword": {
+      "message": "Invalid password"
+   },
+   "invalidPrivateKey": {
+      "message": "Invalid private key."
+   },
+   "invalidRPC": {
+      "message": "Invalid RPC URL"
+   },
+   "invalidRequest": {
+      "message": "Invalid Request"
+   },
+   "invalidTokenAddressWarning": {
+      "message": "There is a possibility that the address you entered is invalid and will not work properly."
+   },
+   "jsonFail": {
+      "message": "Something went wrong. Please make sure your JSON file is properly formatted."
+   },
+   "jsonFile": {
+      "description": "format for importing an account",
+      "message": "JSON File"
+   },
+   "kaikasAgreementTitle1": {
+      "message": "By continuing, you agree to Kaikas's "
+   },
+   "kaikasAgreementTitle2": {
+      "message": " and "
+   },
+   "kaikasAgreementTitle3": {
+      "message": "."
+   },
+   "kaikasSeedWords": {
+      "message": "Kaikas Seed Words"
+   },
+   "kaikasVersion": {
+      "message": "Kaikas™ Version"
+   },
+   "klay": {
+      "message": "KLAY"
+   },
+   "klayAmount": {
+      "message": "KLAY Amount"
+   },
+   "klaytnWalletKey": {
+      "message": "Klaytn Wallet Key"
+   },
+   "klaytnWalletKeyDescription": {
+      "message": "Wallet key is used to import your account into wallet and gives full access to your account. Kaikas offers the following types of wallet keys:"
+   },
+   "knownAddressRecipient": {
+      "message": "Known contract address."
+   },
+   "language": {
+      "message": "Language"
+   },
+   "learnMore": {
+      "message": "Learn more"
+   },
+   "legacyTransactionConfirmError": {
+      "message": "You cannot sign the legacy type transaction with the updated account due to compatibility issues."
+   },
+   "legal": {
+      "message": "Legal"
+   },
+   "lessThanMax": {
+      "description": "helper for inputting hex as decimal input",
+      "message": "must be less than or equal to $1."
+   },
+   "letsGoSetUp": {
+      "message": "Yes, let’s get set up!"
+   },
+   "likeToAddTokens": {
+      "message": "Would you like to add this token?"
+   },
+   "limit": {
+      "message": "Limit"
+   },
+   "links": {
+      "message": "Links"
+   },
+   "loading": {
+      "message": "Loading..."
+   },
+   "loadingTokens": {
+      "message": "Loading Tokens..."
+   },
+   "localhost": {
+      "message": "Localhost 8551"
+   },
+   "lockKaikas": {
+      "message": "Lock Kaikas"
+   },
+   "login": {
+      "message": "Log In"
+   },
+   "logout": {
+      "message": "Log out"
+   },
+   "loose": {
+      "message": "Loose"
+   },
+   "manageAccounts": {
+      "message": "Manage Accounts"
+   },
+   "manageKlaytnWalletKey": {
+      "message": "Manage Wallet Key"
+   },
+   "max": {
+      "message": "Max"
+   },
+   "menu": {
+      "message": "Menu"
+   },
+   "message": {
+      "message": "Message"
+   },
+   "min": {
+      "message": "Minimum"
+   },
+   "minute": {
+      "message": "minute"
+   },
+   "minutes": {
+      "message": "minutes"
+   },
+   "mustSelectOne": {
+      "message": "Must select at least 1 token."
+   },
+   "myAccounts": {
+      "message": "My Accounts"
+   },
+   "name": {
+      "message": "Name"
+   },
+   "needImportFile": {
+      "description": "User is important an account and needs to add a file to continue",
+      "message": "You must select a file to import."
+   },
+   "needImportPassword": {
+      "description": "Password and file needed to import an account",
+      "message": "You must enter a password for the selected file."
+   },
+   "needTestnetKlay": {
+      "message": "Need Testnet KLAY?"
+   },
+   "networkConfiguration": {
+      "message": "Network Configuration"
+   },
+   "networkName": {
+      "message": "Network Name"
+   },
+   "networkRemovingProblem": {
+      "message": "Had a problem removing network"
+   },
+   "networks": {
+      "message": "Networks"
+   },
+   "networksChangingProblem": {
+      "message": "Had a problem changing networks!"
+   },
+   "never": {
+      "message": "Never"
+   },
+   "nevermind": {
+      "message": "Nevermind"
+   },
+   "newAccount": {
+      "message": "New Account"
+   },
+   "newAccountNumberName": {
+      "description": "Default name of next account to be created on create account screen",
+      "message": "Account $1"
+   },
+   "newContract": {
+      "message": "New Contract"
+   },
+   "newNetwork": {
+      "message": "New Network"
+   },
+   "newPassword": {
+      "message": "Create New Password"
+   },
+   "newPasswordPlaceholder": {
+      "message": "Create new password"
+   },
+   "newPublicKey": {
+      "message": "New Public Key"
+   },
+   "newRecipient": {
+      "message": "New Recipient"
+   },
+   "newToKaikas": {
+      "message": "New to Kaikas?"
+   },
+   "newTotal": {
+      "message": "New Total"
+   },
+   "next": {
+      "message": "Next"
+   },
+   "nicknameDescription": {
+      "message": "Enter account nickname. The account nickname will be visible only to you."
+   },
+   "nicknameLabel": {
+      "message": "Enter Account Nickname"
+   },
+   "noConversionRateAvailable": {
+      "message": "No Conversion Rate Available"
+   },
+   "noData": {
+      "message": "No data"
+   },
+   "noTokenAdded": {
+      "message": "You have no token added"
+   },
+   "noTransactions": {
+      "message": "You have no transactions"
+   },
+   "noWebcamFound": {
+      "message": "Your computer's webcam was not found. Please try again."
+   },
+   "noWebcamFoundTitle": {
+      "message": "Webcam not found"
+   },
+   "nonce": {
+      "message": "Nonce"
+   },
+   "notEnoughGas": {
+      "message": "Not Enough Gas"
+   },
+   "notFound": {
+      "message": "Not Found"
+   },
+   "notStarted": {
+      "message": "Not Started"
+   },
+   "notice": {
+      "message": "Notice"
+   },
+   "ofTextNofM": {
+      "message": "of"
+   },
+   "off": {
+      "message": "Off"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "on": {
+      "message": "On"
+   },
+   "onlySendToKlaytnAddress": {
+      "message": "Only send KLAY to an Klaytn address."
+   },
+   "onlySendTokensToAccountAddress": {
+      "message": "Only send $1 to an Klaytn account address."
+   },
+   "openInTab": {
+      "message": "Open in tab"
+   },
+   "optionalBlockExplorerUrl": {
+      "message": "Block Explorer URL (optional)"
+   },
+   "optionalChainId": {
+      "message": "Chain ID (optional)"
+   },
+   "optionalNickname": {
+      "message": "Nickname (optional)"
+   },
+   "optionalSymbol": {
+      "message": "Symbol (optional)"
+   },
+   "or": {
+      "description": "choice between creating or importing a new account",
+      "message": "or"
+   },
+   "origin": {
+      "message": "Origin"
+   },
+   "originalTotal": {
+      "message": "Original Total"
+   },
+   "outgoing": {
+      "message": "Outgoing"
+   },
+   "parameters": {
+      "message": "Parameters"
+   },
+   "password": {
+      "message": "Password"
+   },
+   "passwordContainSpaces": {
+      "message": "Password should not contain spaces"
+   },
+   "passwordCorrect": {
+      "message": "Please make sure your password is correct."
+   },
+   "passwordNotLongEnough": {
+      "message": "Password should be 8-32 symbols in length"
+   },
+   "passwordNotValid": {
+      "message": "Password not valid"
+   },
+   "passwordNotValid2": {
+      "message": "Contain at least one of uppercase letter, lowercase letter, number, and symbol each"
+   },
+   "passwordShort": {
+      "description": "in password creation process, the password is not long enough to be secure",
+      "message": "password not long enough"
+   },
+   "passwordsDontMatch": {
+      "message": "Passwords do not match"
+   },
+   "pasteKlaytnWalletKey": {
+      "message": "Paste updated Klaytn Wallet Key"
+   },
+   "pasteKlaytnWalletKeyPlaceholder": {
+      "message": "Paste updated Klaytn Wallet Key"
+   },
+   "pastePrivateKey": {
+      "description": "For importing an account from a private key",
+      "message": "Paste your private key string here:"
+   },
+   "pasteSeed": {
+      "message": "Paste your seed phrase here!"
+   },
+   "pasteYourKey": {
+      "message": "Paste your key"
+   },
+   "pasteYourMnemonicPhrase": {
+      "message": "Paste your seed phrase"
+   },
+   "pasteYourPrivateKey": {
+      "message": "Paste Your Private Key or Klaytn Wallet Key"
+   },
+   "pending": {
+      "message": "pending"
+   },
+   "pendingTransaction": {
+      "message": "Pending Transaction"
+   },
+   "personalAddressDetected": {
+      "message": "Personal address detected. Input the token contract address."
+   },
+   "pleaseReviewTransaction": {
+      "message": "Please review your transaction."
+   },
+   "popularTokens": {
+      "message": "Popular Tokens"
+   },
+   "prev": {
+      "message": "Prev"
+   },
+   "primaryCurrencySetting": {
+      "message": "Primary Currency"
+   },
+   "privacyMode": {
+      "message": "Privacy Mode"
+   },
+   "privacyModeDescription": {
+      "message": "Websites must request access to view your account information"
+   },
+   "privacyPolicy": {
+      "message": "Privacy Policy"
+   },
+   "privateKey": {
+      "description": "select this type of file to use to import an account",
+      "message": "Private Key"
+   },
+   "privateKeyWarning": {
+      "message": "A dApp will never ask for your wallet key. Giving away your wallet key may result in the loss of your assets."
+   },
+   "privateNetwork": {
+      "message": "Private Network"
+   },
+   "problemExportingAccount": {
+      "message": "Had a problem exporting the account."
+   },
+   "proceed": {
+      "message": "Proceed"
+   },
+   "proceedWithoutDownload": {
+      "message": "Proceed Without Download"
+   },
+   "proceedWithoutDownloadQuestion": {
+      "message": "Proceed Without Download?"
+   },
+   "processingTheRequest": {
+      "message": "Processing the request"
+   },
+   "protectYourKeys": {
+      "message": "Protect Your Keys!"
+   },
+   "provideKeystore": {
+      "message": "also available as keystore file"
+   },
+   "providerRequest": {
+      "message": "$1 would like to connect to your account"
+   },
+   "publicAddress": {
+      "message": "Public Address"
+   },
+   "qrCode": {
+      "message": "Show QR Code"
+   },
+   "queue": {
+      "message": "Queue"
+   },
+   "queueList": {
+      "message": "Queue List"
+   },
+   "readFirst": {
+      "message": "Please read the \u003Ca href='https://kaikas.zendesk.com/hc/en-us/articles/4407651714703'>cautions\u003C/a> first, and then"
+   },
+   "readMore": {
+      "message": "Read more here."
+   },
+   "readMore2": {
+      "message": "Read more."
+   },
+   "readdToken": {
+      "message": "You are going to remove the token from the list. You can add this token back in the future by clicking \"Add Token\" in the tokens list."
+   },
+   "readyToConnect": {
+      "message": "Ready to Connect?"
+   },
+   "receive": {
+      "message": "Receive"
+   },
+   "recipientAddress": {
+      "message": "Recipient Address"
+   },
+   "refresh": {
+      "message": "Refresh"
+   },
+   "refreshStatus": {
+      "message": "Refresh Status"
+   },
+   "refundAddress": {
+      "message": "Your Refund Address"
+   },
+   "reject": {
+      "message": "Reject"
+   },
+   "rejectAll": {
+      "message": "Reject All"
+   },
+   "rejectTxsDescription": {
+      "message": "You are about to batch reject $1 transactions. Check your transactions before you reject all."
+   },
+   "rejectTxsN": {
+      "message": "Reject $1 Transactions"
+   },
+   "rejectTxsNAll": {
+      "message": "Reject All Transactions"
+   },
+   "rejected": {
+      "message": "Rejected"
+   },
+   "remove": {
+      "message": "Remove"
+   },
+   "remove2": {
+      "message": "Remove"
+   },
+   "removeAccount": {
+      "message": "Remove account"
+   },
+   "removeAccountDescription": {
+      "message": "This account will be removed from Kaikas. Please make sure you have original wallet key for this imported account before proceeding. You can import accounts again from Manage Accounts menu."
+   },
+   "replaceKlaytnWalletKey": {
+      "message": "Replace Klaytn Wallet Key"
+   },
+   "replaceKlaytnWalletKeyDescription": {
+      "message": "Replace only if Klaytn Wallet Key for this account has been updated on the selected network. This action applies only within Kaikas storage, and doesn’t affect seed phrase."
+   },
+   "replaceKlaytnWalletKeyError": {
+      "message": "This transaction has failed due to invalid key. If the private key of your account has been updated, please replace your Klaytn Wallet Key with the updated one."
+   },
+   "replaceKlaytnWalletKeyWarning": {
+      "message": "Once you replace Klaytn Wallet Key, you cannot use previous Klaytn Wallet Key anymore on the selected network."
+   },
+   "replaced": {
+      "message": "Replaced!"
+   },
+   "replacedDescription": {
+      "message": "Klaytn Wallet Key for this account has been successfully replaced on $1"
+   },
+   "requestedBy": {
+      "message": "Requested by"
+   },
+   "requestsAwaitingAcknowledgement": {
+      "message": "requests waiting to be acknowledged"
+   },
+   "required": {
+      "message": "Required"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "resetAccount": {
+      "message": "Reset Account"
+   },
+   "restore": {
+      "message": "Restore"
+   },
+   "restoreYourAccount": {
+      "message": "Restore Your Account"
+   },
+   "revealSeedPhrase": {
+      "message": "Reveal Seed Phrase"
+   },
+   "revealSeedPhraseDescription": {
+      "message": "When you have lost your password or are reinstalling Kaikas, you can restore your account using your seed phrase."
+   },
+   "revealSeedWords": {
+      "message": "Reveal Seed Words"
+   },
+   "revealSeedWordsDescription": {
+      "message": "If you ever change browsers or move computers, you will need this seed phrase to access your accounts. Save them somewhere safe and secret."
+   },
+   "revealSeedWordsTitle": {
+      "message": "Seed Phrase"
+   },
+   "revealSeedWordsWarning": {
+      "message": "These words can be used to steal all your accounts."
+   },
+   "revealSeedWordsWarningTitle": {
+      "message": "DO NOT share this phrase with anyone!"
+   },
+   "revert": {
+      "message": "Revert"
+   },
+   "rpc": {
+      "message": "Custom RPC"
+   },
+   "rpcUrl": {
+      "message": "New RPC URL"
+   },
+   "sampleAccountName": {
+      "description": "Help user understand concept of adding a human-readable name to their account",
+      "message": "E.g. My new account"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "saveAsCsvFile": {
+      "message": "Save as CSV File"
+   },
+   "saveAsFile": {
+      "description": "Account export process",
+      "message": "Save as File"
+   },
+   "saveSeedAsFile": {
+      "message": "Save Seed Words As File"
+   },
+   "scanInstructions": {
+      "message": "Place the QR code in front of your camera"
+   },
+   "scanQrCode": {
+      "message": "Scan QR Code"
+   },
+   "search": {
+      "message": "Search"
+   },
+   "searchTokens": {
+      "message": "Search tokens"
+   },
+   "secondsShorthand": {
+      "message": "Sec"
+   },
+   "secretPhrase": {
+      "message": "Restore your account with seed phrase. Separate each word with a space."
+   },
+   "secretPhraseMnemonic": {
+      "message": "Paste your seed phrase here. Separate each word with a space."
+   },
+   "securityAndPrivacy": {
+      "message": "Security & Privacy"
+   },
+   "securityGuide": {
+      "message": "Security Guide"
+   },
+   "securityGuideDetailDesc1": {
+      "message": "On the blockchain, account verification is carried out solely using the seed phrase, without ID or password. You can use it to restore your account when you lose your password or reinstall Kaikas."
+   },
+   "securityGuideDetailDesc2": {
+      "message": "The seed phrase is randomly generated when you install Kaikas and is known only to you. There is no way to restore the account if you lost it."
+   },
+   "securityGuideDetailDesc3": {
+      "message": "A dApp will never ask for your seed phrase or wallet key (private key). When your seed phrase or wallet key get exposed, your funds may get stolen."
+   },
+   "securityGuideDetailTitle1": {
+      "message": "1. Keep your seed phrase safely stored."
+   },
+   "securityGuideDetailTitle2": {
+      "message": "2. We do not store your seed phrase."
+   },
+   "securityGuideDetailTitle3": {
+      "message": "3. Beware of phisings and scams."
+   },
+   "securityGuideTextBlock": {
+      "message": "To use Kaikas safely, please pay special attention to the following guide."
+   },
+   "seedPhraseAlreadyBackedup": {
+      "message": "Yes, I Backed It Up in a Different Way"
+   },
+   "seedPhraseBackupWarning": {
+      "message": "Make sure you have backed up your seed phrase. Without a backup, there is no way to restore your account."
+   },
+   "seedPhraseIsInvalid": {
+      "message": "Invalid seed phrase "
+   },
+   "seedPhrasePlaceholder": {
+      "message": "Paste your seed phrase"
+   },
+   "seedPhraseReq": {
+      "message": "Seed phrases are 12 words long"
+   },
+   "seedPhraseVerified": {
+      "message": "Seed Phrase Verified"
+   },
+   "seedPhraseVerifiedMsg": {
+      "message": "Your seed phrase has been verified. Please store the paper with the seed phrase in a safe place, and do not share it with others."
+   },
+   "select": {
+      "message": "Select"
+   },
+   "selectAnAccount": {
+      "message": "Select an Account"
+   },
+   "selectAnAddress": {
+      "message": "Select an Address"
+   },
+   "selectAnAsset": {
+      "message": "Select an Asset"
+   },
+   "selectCurrency": {
+      "message": "Select Currency"
+   },
+   "selectEachPhrase": {
+      "message": "Please select each phrase in order to make sure it is correct."
+   },
+   "selectHdPath": {
+      "message": "Select HD Path"
+   },
+   "selectLocale": {
+      "message": "Select Locale"
+   },
+   "selectService": {
+      "message": "Select Service"
+   },
+   "selectType": {
+      "message": "Select Type"
+   },
+   "selectedNetwork": {
+      "message": "Selected Network"
+   },
+   "send": {
+      "message": "Send"
+   },
+   "sendAmount": {
+      "message": "Send Amount"
+   },
+   "sendKLAY": {
+      "message": "Send KLAY"
+   },
+   "sendTokens": {
+      "message": "Send Tokens"
+   },
+   "sentKlay": {
+      "message": "Sent KLAY"
+   },
+   "sentTokens": {
+      "message": "sent tokens"
+   },
+   "separateEachWord": {
+      "message": "Separate each word with a single space"
+   },
+   "serviceWillPayYourFee": {
+      "message": "The service will pay your fee and process your TX."
+   },
+   "setNewPassword": {
+      "message": "Set a new password that will be used to access your accounts."
+   },
+   "setPasswordKeystore": {
+      "message": "Set Password"
+   },
+   "setPasswordKeystoreDescription": {
+      "message": "Set a password that will be used to upload this Keystore File to import the account. This password cannot be restored."
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "showData": {
+      "message": "Show Data"
+   },
+   "showDetails": {
+      "message": "Show details"
+   },
+   "showHexData": {
+      "message": "Show Hex Data"
+   },
+   "showPrivateKeys": {
+      "message": "Show Private Keys"
+   },
+   "showQRCode": {
+      "message": "Show QR Code"
+   },
+   "showSeedLabel": {
+      "message": "Seed Phrase"
+   },
+   "sign": {
+      "message": "Sign"
+   },
+   "signMessage": {
+      "message": "Sign Message"
+   },
+   "signNotice": {
+      "message": "Signing this message can have dangerous side effects. Only sign messages from sites you fully trust with your entire account."
+   },
+   "signTheMessage": {
+      "message": "Sign the Message"
+   },
+   "signWith": {
+      "message": "Sign with"
+   },
+   "signatureRequest": {
+      "message": "Signature Request"
+   },
+   "signed": {
+      "message": "Signed"
+   },
+   "slow": {
+      "message": "Slow"
+   },
+   "slower": {
+      "message": "Slower"
+   },
+   "smartContractExecution": {
+      "message": "Smart Contract Execution"
+   },
+   "somethingWentWrong": {
+      "message": "Something went wrong."
+   },
+   "spaceBetween": {
+      "message": "there can only be a space between words"
+   },
+   "speedUpCancellation": {
+      "message": "Speed up this cancellation"
+   },
+   "speedUpTitle": {
+      "message": "Speed Up Transaction"
+   },
+   "speedUpTransaction": {
+      "message": "Speed up this transaction"
+   },
+   "startKaikas": {
+      "message": "Start Kaikas"
+   },
+   "stateLogError": {
+      "message": "Error in retrieving state logs."
+   },
+   "stateLogs": {
+      "message": "State Logs"
+   },
+   "stateLogsDescription": {
+      "message": "Logs of Kaikas usage history"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "storeSeedPhrase": {
+      "message": "Store Seed Phrase"
+   },
+   "storeSeedPhraseConfirm": {
+      "message": "Yes, I stored it in a safe place."
+   },
+   "storeSeedPhraseDescription": {
+      "message": "Write them down on the paper and store it safely. If you store it in an email or computer, it may be compromised due to hacking."
+   },
+   "storeSeedPhraseWarning": {
+      "message": "※ Since we do not store your seed phrase, there is no way of restoring your account if you lose it."
+   },
+   "submit": {
+      "message": "Submit"
+   },
+   "submitted": {
+      "message": "Submitted"
+   },
+   "succeed": {
+      "message": "Succeed"
+   },
+   "success": {
+      "message": "Success!"
+   },
+   "successDescription": {
+      "message": "Token has been successfully sent."
+   },
+   "swap": {
+      "message": "Swap"
+   },
+   "swapTokens": {
+      "message": "Swap Tokens"
+   },
+   "swapTokensDescription": {
+      "message": "Select a service to swap tokens. Once the service opens, connect Kaikas and proceed with the swap. Some tokens are not supported."
+   },
+   "switchNetworks": {
+      "message": "Switch Networks"
+   },
+   "symbol": {
+      "message": "Symbol"
+   },
+   "symbolBetweenZeroTwelve": {
+      "message": "Symbol must be between 0 and 12 characters."
+   },
+   "syncVersion": {
+      "message": "1.0.0"
+   },
+   "terms": {
+      "message": "Terms of Use"
+   },
+   "thisMayTakeAWhile": {
+      "message": "This may take a while, please be patient."
+   },
+   "tips": {
+      "message": "Tips"
+   },
+   "to": {
+      "message": "To"
+   },
+   "token": {
+      "message": "Token"
+   },
+   "tokenAddress": {
+      "message": "Token Address"
+   },
+   "tokenAlreadyAdded": {
+      "message": "Token has already been added."
+   },
+   "tokenBalance": {
+      "message": "Your Token Balance is:"
+   },
+   "tokenCannotBeUsed": {
+      "message": "This token cannot be used because the token contract address is invalid. Check your token contract address again."
+   },
+   "tokenContractAddress": {
+      "message": "Token Contract Address"
+   },
+   "tokenContractAddressLower": {
+      "message": "Token contract address"
+   },
+   "tokenInfo": {
+      "message": "TokenInfo"
+   },
+   "tokenList": {
+      "message": "Token List"
+   },
+   "tokenNotFound": {
+      "message": "Token not found"
+   },
+   "tokenSelection": {
+      "message": "Search for tokens or select from our list of popular tokens."
+   },
+   "tokenSymbol": {
+      "message": "Token Symbol"
+   },
+   "tokenSymbolLower": {
+      "message": "Token symbol"
+   },
+   "total": {
+      "message": "Total"
+   },
+   "transaction": {
+      "message": "transaction"
+   },
+   "transactionCancelAttempted": {
+      "message": "Transaction cancel attempted with gas fee of $1 at $2"
+   },
+   "transactionCancelSuccess": {
+      "message": "Transaction successfully cancelled at $2"
+   },
+   "transactionConfirmed": {
+      "message": "Transaction confirmed at $2"
+   },
+   "transactionCreated": {
+      "message": "Transaction created with a value of $1 at $2"
+   },
+   "transactionDropped": {
+      "message": "Transaction dropped at $2."
+   },
+   "transactionError": {
+      "message": "Transaction Error. Exception thrown in contract code."
+   },
+   "transactionErrorNoContract": {
+      "message": "Trying to call a function on a non-contract address."
+   },
+   "transactionErrored": {
+      "message": "Transaction encountered an error."
+   },
+   "transactionFee": {
+      "message": "Estimated Fee"
+   },
+   "transactionMemo": {
+      "message": "Transaction memo (optional)"
+   },
+   "transactionNumber": {
+      "message": "Transaction Number"
+   },
+   "transactionResubmitted": {
+      "message": "Transaction resubmitted with fee increased to $1 at $2"
+   },
+   "transactionSubmitted": {
+      "message": "Transaction submitted with fee of $1 at $2"
+   },
+   "transactionSubmittingProblem": {
+      "message": "There was a problem submitting this transaction."
+   },
+   "transactionTime": {
+      "message": "Transaction Time"
+   },
+   "transactionUpdated": {
+      "message": "Transaction updated at $2."
+   },
+   "transactionWithNonce": {
+      "message": "Transaction $1"
+   },
+   "transactions": {
+      "message": "transactions"
+   },
+   "transfer": {
+      "message": "Transfer"
+   },
+   "transferFrom": {
+      "message": "Transfer From"
+   },
+   "transfers": {
+      "message": "Transfers"
+   },
+   "troubleTokenBalances": {
+      "description": "Followed by a link (here) to view token balances",
+      "message": "We had trouble loading your token balances. You can view them "
+   },
+   "tryAgain": {
+      "message": "Try again"
+   },
+   "twelveWords": {
+      "message": "These 12 words are the only way to restore your Kaikas accounts.\nSave them somewhere safe and secret."
+   },
+   "txDelegation": {
+      "message": "Fee Delegation"
+   },
+   "type": {
+      "message": "Type"
+   },
+   "typePassword": {
+      "message": "Type your Kaikas password"
+   },
+   "typeYourKaikasPassword": {
+      "message": "Type your Kaikas password"
+   },
+   "unapproved": {
+      "message": "Unapproved"
+   },
+   "unavailable": {
+      "message": "Unavailable"
+   },
+   "units": {
+      "message": "units"
+   },
+   "unknown": {
+      "message": "Unknown"
+   },
+   "unknownCameraError": {
+      "message": "There was an error while trying to access your camera. Please try again..."
+   },
+   "unknownCameraErrorTitle": {
+      "message": "Ooops! Something went wrong...."
+   },
+   "unknownNetwork": {
+      "message": "Unknown Private Network"
+   },
+   "unknownNetworkId": {
+      "message": "Unknown network ID"
+   },
+   "unknownQrCode": {
+      "message": "Error: We couldn't identify that QR code"
+   },
+   "unlock": {
+      "message": "Unlock"
+   },
+   "unlockMessage": {
+      "message": "Enter password to unlock Kaikas."
+   },
+   "unlockYourKaikas": {
+      "message": "Kaikas™ is\nCurrently Locked"
+   },
+   "updatedAccountExportMessage": {
+      "message": "This account has been updated with a new Klaytn Wallet Key. The private key is no longer provided because it is not valid."
+   },
+   "updatedWithDate": {
+      "message": "Updated $1"
+   },
+   "uploadKeystoreFile": {
+      "message": "Upload Keystore File (JSON)"
+   },
+   "uriErrorMsg": {
+      "message": "URL should start with HTTP/HTTPS"
+   },
+   "usedByClients": {
+      "message": "Used by a variety of different clients"
+   },
+   "usingKeystoreFile": {
+      "message": "Using keystore file"
+   },
+   "usingPrivateKey": {
+      "message": "Using private key"
+   },
+   "validFileImport": {
+      "message": "You must select a valid file to import."
+   },
+   "valueTransferMemo": {
+      "message": "Value Transfer Memo"
+   },
+   "verify": {
+      "message": "Verify"
+   },
+   "verifySeedPhrase": {
+      "message": "Verify Seed Phrase"
+   },
+   "verifySeedPhraseDescription": {
+      "message": "Enter your seed phrase that you had written down on a piece of paper. Each word is separated by a space."
+   },
+   "viewNetworkInfo": {
+      "message": "View Network Info"
+   },
+   "viewOnCustomBlockExplorer": {
+      "message": "View at $1"
+   },
+   "viewOnKlaytnscope": {
+      "message": "View on klaytnfinder"
+   },
+   "visitHelpCenter": {
+      "message": "Visit Help Center"
+   },
+   "visitWebSite": {
+      "message": "Visit Our Developers Website"
+   },
+   "walletSeed": {
+      "message": "Paste Your Seed Phrase"
+   },
+   "warning": {
+      "message": "Warning"
+   },
+   "welcome": {
+      "message": "Welcome to Kaikas"
+   },
+   "welcomeBack": {
+      "message": "Welcome Back!"
+   },
+   "welcomeToKaikas": {
+      "message": "Welcome to Kaikas™"
+   },
+   "whatIsKlaytnWalletKey": {
+      "message": "Wallet Key?"
+   },
+   "whatsThis": {
+      "message": "What's this?"
+   },
+   "withDiscountedFee": {
+      "message": "with a Discounted Fee"
+   },
+   "withoutFeeCharging": {
+      "message": "without Fee Charging"
+   },
+   "yesLetsTry": {
+      "message": "Yes, let's try"
+   },
+   "you": {
+      "message": "You"
+   },
+   "youHaveNoTokensAdded": {
+      "message": "You have no tokens added"
+   },
+   "youNeedToAllowCameraAccess": {
+      "message": "You need to allow camera access to use this feature."
+   },
+   "youSign": {
+      "message": "You are signing"
+   },
+   "yourAccount": {
+      "message": "Your Account"
+   },
+   "yourBalance": {
+      "message": "Your Balance"
+   },
+   "yourPrivateSeedPhrase": {
+      "message": "Your private seed phrase"
+   },
+   "yourSigRequested": {
+      "message": "This website is requesting your signature for the following. Make sure you trust this website before signing."
+   }
+}
