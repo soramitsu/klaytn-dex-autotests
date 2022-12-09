@@ -6,7 +6,7 @@ exports.config = {
     Puppeteer: {
       url: '',
       restart: true,
-      show: true,
+      show: false,
       keepBrowserState: false,
       keepCookies: false,
       windowSize: '1600x900',
@@ -14,6 +14,7 @@ exports.config = {
         userDataDir: 'tmp/puppeteer-tmp',
         args: [`--disable-extensions-except=${pathToExtension}`,
         `--load-extension=${pathToExtension}`,
+        '--no-sandbox', '--disable-setuid-sandbox'
         ]
       }
     }
