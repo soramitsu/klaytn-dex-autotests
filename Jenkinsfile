@@ -23,6 +23,7 @@ pipeline {
                             sh '''
                                 pnpm i
                                 npx codeceptjs run --plugins allure
+                                ls -aslh *
                             '''
                         }
                     }
