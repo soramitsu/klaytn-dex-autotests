@@ -22,7 +22,7 @@ pipeline {
                         docker.image( "docker.soramitsu.co.jp/build-tools/" + agentImage ).inside(){
                             sh '''
                                 pnpm i
-                                npx codeceptjs run --plugins allure
+                                npx codeceptjs run --plugins allure || true
                                 ls -aslh *
                             '''
                         }
@@ -34,7 +34,7 @@ pipeline {
     post {
         always {
             script {
-                allure report: 'allure_reports', results: [[path: 'allure-results']]
+                allure report: 'allure_reports', results: [[path: 'output']]
             }
         }
         cleanup {
